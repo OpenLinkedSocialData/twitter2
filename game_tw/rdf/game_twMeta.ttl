@@ -1,0 +1,29 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tw: <http://purl.org/socialparticipation/tw/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#game_tw> a po:Snapshot ;
+    rdfs:label "Snapshot game_tw"^^xsd:string ;
+    po:acquiredThrough "Twitter search engine"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/twitter2/tree/master/game_tw"^^xsd:string ;
+    po:createdAt "2015-12-03"^^xsd:date ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twMeta.ttl"^^xsd:string ;
+    po:donatedBy "labMacambira.sf.net"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twTranslate00000.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twTranslate00001.owl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twTranslate00002.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-14T05:02:47.009647"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twTranslate00000.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twTranslate00001.ttl"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twTranslate00002.ttl"^^xsd:string ;
+    tw:nMessages 10200 ;
+    tw:nParticipants 10200 ;
+    tw:nReTweets 1370 ;
+    tw:nReplies 177 ;
+    rdfs:comment "The Twitter messages related to tweets with the #game_tw hashtag"^^xsd:string .
+

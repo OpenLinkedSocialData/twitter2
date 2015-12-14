@@ -1,0 +1,3115 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tw: <http://purl.org/socialparticipation/tw/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/tw/Message#672587103503519745> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#maxxpowerss8> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT redustrial_SW: Fellow #indie game developers, I need your help! Please rate my #FREE #game #GalacticMinesweeper… https://t.co/OJoKCwKCKc"^^xsd:string ;
+    tw:messageID "672587103503519745"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:23:56+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587105323782144> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Suly_Le> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "I've finished the Send 8 invitations quest! Are you able to fulfil the same task? https://t.co/67yVOP0Grd #android,#androidgames,#game..."^^xsd:string ;
+    tw:messageID "672587105323782144"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:23:56+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587119768895488> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#katladyu18> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Be cooperative then stab 'em in the back! The #game, not the #contest! @SmirkandDagger @SahmReviews Details: https://t.co/OcDiPeu8d4"^^xsd:string ;
+    tw:messageID "672587119768895488"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:24:00+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587132670771200> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#BrinquedosRJ100> ;
+    tw:lang "tr"^^xsd:string ;
+    tw:messageContent "Bddar  #fantasia #sonho #alegria #she #girl #man #joke #game #rir #hero #heroes #comics #DC #goodtimes #brinquedos https://t.co/CzPTFb8Wjy"^^xsd:string ;
+    tw:messageID "672587132670771200"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:24:03+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587195325267972> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ThiagoDwar> ;
+    tw:lang "pt"^^xsd:string ;
+    tw:messageContent """RT @MarquesZero: THE GAME AWARDS começa em menos de 10 minutos! Vou Streamar e ficar conversando com uma glr que curte os #GAME
+
+vem https:…"""^^xsd:string ;
+    tw:messageID "672586914017517569"^^xsd:string,
+        "672587195325267972"^^xsd:string ;
+    tw:precedingMessageContent """THE GAME AWARDS começa em menos de 10 minutos! Vou Streamar e ficar conversando com uma glr que curte os #GAME
+
+vem https://t.co/3kb1UNJ3Rg"""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672586914017517569> ;
+    tw:sentAt "2015-12-04T01:24:18+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587199452340224> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Suly_Le> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "I've finished the Send 9 invitations quest! Are you able to fulfil the same task? https://t.co/67yVOP0Grd #android,#androidgames,#game..."^^xsd:string ;
+    tw:messageID "672587199452340224"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:24:19+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587199762722817> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ReneeReview> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "On #game day, enjoy your #burgers &amp; #beer @thefatdogla in @officialnoho on the #TheFatDog #Patio @lafood @LAFoodie https://t.co/dJ8dIfEqnN"^^xsd:string ;
+    tw:messageID "672587199762722817"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:24:19+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587250677497856> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#MusicianGadgets> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#Clarinet #fingering diagram #game! Amazing  #Teaching Aid for #music teachers https://t.co/s9LFxAtlrG https://t.co/PQONjLVZdB"^^xsd:string ;
+    tw:messageID "672587250677497856"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:24:31+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587265437118468> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#pavnasabaysuk> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "I've finished the Legendary Crossing quest! Are you able to fulfil the same task? https://t.co/veSUhVeg60 #android,#androidgames,#game..."^^xsd:string ;
+    tw:messageID "672587265437118468"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:24:34+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587323046014976> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#shopmatrixuk> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Melissa &amp; Doug Bug-Catching Magnetic Puzzle Game https://t.co/SaMV8XmbxM #bugcatching #discounted #doug #game #magnetic #discounts #bargains"^^xsd:string ;
+    tw:messageID "672587323046014976"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:24:48+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587396421058563> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#adit_angga19> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "I've finished the More Lumber Needed quest! Are you able to fulfil the same task? https://t.co/XvyyoP9JBu #android,#androidgames,#game..."^^xsd:string ;
+    tw:messageID "672587396421058563"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:25:06+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587398392373248> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#game_long_play> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """Nintendo 64 Longplay [003] Bomberman 64 - YouTube #GAME 
+https://t.co/kQaHrUCBpp"""^^xsd:string ;
+    tw:messageID "672587398392373248"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:25:06+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587412313370624> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ToysKidsbrin> ;
+    tw:lang "no"^^xsd:string ;
+    tw:messageContent "Addb  #fantasia #sonho #alegria #she #girl #man #joke #game #rir #hero #heroes #comics #DC #goodtimes #brinquedos  https://t.co/GXcuMuelk2"^^xsd:string ;
+    tw:messageID "672587412313370624"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:25:09+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587427752632322> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Gamers_Account> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "demagaga_radio: Nintendo 3DS - The Legend of Zelda Ocarina of Time 3D Longplay 5 #videogames #gaming #gamers #game… https://t.co/kX76BUVibz"^^xsd:string ;
+    tw:messageID "672587427752632322"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:25:13+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587431586197507> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Gamers_Account> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Demagaga_Times: Nintendo 3DS - The Legend of Zelda Ocarina of Time 3D Longplay 5 #videogames #gaming #gamers #game… https://t.co/kX76BUVibz"^^xsd:string ;
+    tw:messageID "672587431586197507"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:25:14+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587445775503361> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#anadromeo> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Jon played today's #HighScore: GATS at (a measly) 428pts  https://t.co/ZB1K9ex2MO #game #scrabble #playmath https://t.co/fNghOiCxe2"^^xsd:string ;
+    tw:messageID "672587445775503361"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:25:17+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587448384413696> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Gamers_Account> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT Gamers_Account: Gamers_Account: RT awesome_letspla: RT DaGameTrain: #Letsplay #WarOfTheRing #Lotr #Gamers #Game… https://t.co/jssKtjSCXx"^^xsd:string ;
+    tw:messageID "672587448384413696"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:25:18+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587492663627776> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#AiRRose2k> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Game stats https://t.co/y6VxfnyM2d via @Scoutlit"^^xsd:string ;
+    tw:messageID "672587492663627776"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:25:28+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587518781599744> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#JoNatalizio> ;
+    tw:lang "pt"^^xsd:string ;
+    tw:messageContent """RT @MarquesZero: THE GAME AWARDS começa em menos de 10 minutos! Vou Streamar e ficar conversando com uma glr que curte os #GAME
+
+vem https:…"""^^xsd:string ;
+    tw:messageID "672586914017517569"^^xsd:string,
+        "672587518781599744"^^xsd:string ;
+    tw:precedingMessageContent """THE GAME AWARDS começa em menos de 10 minutos! Vou Streamar e ficar conversando com uma glr que curte os #GAME
+
+vem https://t.co/3kb1UNJ3Rg"""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672586914017517569> ;
+    tw:sentAt "2015-12-04T01:25:35+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587534937952256> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#saintkalvin51> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "I've finished the Warehouse Capacity quest! Are you able to fulfil the same task? https://t.co/T0NeGTciLZ #android,#androidgames,#game..."^^xsd:string ;
+    tw:messageID "672587534937952256"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:25:39+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587548561117185> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#TheVictorVieira> ;
+    tw:lang "pt"^^xsd:string ;
+    tw:messageContent """RT @MarquesZero: THE GAME AWARDS começa em menos de 10 minutos! Vou Streamar e ficar conversando com uma glr que curte os #GAME
+
+vem https:…"""^^xsd:string ;
+    tw:messageID "672586914017517569"^^xsd:string,
+        "672587548561117185"^^xsd:string ;
+    tw:precedingMessageContent """THE GAME AWARDS começa em menos de 10 minutos! Vou Streamar e ficar conversando com uma glr que curte os #GAME
+
+vem https://t.co/3kb1UNJ3Rg"""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672586914017517569> ;
+    tw:sentAt "2015-12-04T01:25:42+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587618446499840> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#thaug28> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "RT @maruhashi084: 【Destiny】12月パッチは来週配信、タイタンの調整、エバーバースについてアナウンスされたウィークリーアップデート https://t.co/0il9zEFBgu #Destiny #game https://t.co/aqznyx5G4b"^^xsd:string ;
+    tw:messageID "672582126324293632"^^xsd:string,
+        "672587618446499840"^^xsd:string ;
+    tw:precedingMessageContent "【Destiny】12月パッチは来週配信、タイタンの調整、エバーバースについてアナウンスされたウィークリーアップデート https://t.co/0il9zEFBgu #Destiny #game https://t.co/aqznyx5G4b"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672582126324293632> ;
+    tw:sentAt "2015-12-04T01:25:58+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587644514209793> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#MARTELLEINTL> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Let's play chess! #chess #Table #chesstable #game #forsale #marble #extravagant #buy https://t.co/F8dyZUQE9q"^^xsd:string ;
+    tw:messageID "672587644514209793"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:05+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587652412129280> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#JRToysJuguetes> ;
+    tw:lang "nl"^^xsd:string ;
+    tw:messageContent "Mieeeeeee ee  #salute #education #fun #fantasia #sonho #alegria #joke #game #hero #heroes #comics #DC #goodtimes   https://t.co/HFg4gHkwpf"^^xsd:string ;
+    tw:messageID "672587652412129280"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:07+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587685471490048> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#maistarz> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """Alice in Wonderland Jump is happy♪Voice is lovely 
+
+https://t.co/wGGgOmIiO9　#game"""^^xsd:string ;
+    tw:messageID "672587685471490048"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:14+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587693369393152> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamematomesm> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "本日20時からのMステにμ'sが初登場！　録画忘れるなよーーーー！！ https://t.co/WFBNKynae0 #はちま起稿 #game #matomesm https://t.co/47SOIYA4os"^^xsd:string ;
+    tw:messageID "672587693369393152"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:16+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587699665043456> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamematomesm> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "絶対に2度見する画像　思わず「えっ！？」ってなるよね https://t.co/9Fn7MttjY2 #はちま起稿 #game #matomesm https://t.co/47SOIYA4os"^^xsd:string ;
+    tw:messageID "672587699665043456"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:18+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587705893556224> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamematomesm> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "【マジかよ！！】東芝・富士通・VAIOの3社が統合して最強の国内PCメーカーが誕生する模様 https://t.co/5C92JXyRxQ #はちま起稿 #game #matomesm https://t.co/47SOIYA4os"^^xsd:string ;
+    tw:messageID "672587705893556224"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:19+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587712159875072> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamematomesm> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "【ラブライブ】 本日、μ's出演のミュージックステーションが放送するぞぉおおおおおおお https://t.co/D8XJHEmZfZ #オレ的ゲーム速報＠刃 #game #matomesm https://t.co/47SOIYA4os"^^xsd:string ;
+    tw:messageID "672587712159875072"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:21+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587718619107328> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamematomesm> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "【予約開始】PSVita「初音ミク DIVA-X」などがAmazonで予約開始きたぞお https://t.co/730DAM3pSb #オレ的ゲーム速報＠刃 #game #matomesm https://t.co/47SOIYA4os"^^xsd:string ;
+    tw:messageID "672587718619107328"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:22+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587724772085760> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamematomesm> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "今年もサンタクロース追跡サイトがオープン！非リアのお前ら！サンタ狩りの時間だ！ https://t.co/PrL4NYXB3O #オレ的ゲーム速報＠刃 #game #matomesm https://t.co/47SOIYA4os"^^xsd:string ;
+    tw:messageID "672587724772085760"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:24+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587731034234880> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamematomesm> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "2D版『マインクラフト』と呼ばれた神ゲー『テラリア』、ついに3DS版が12月10日発売 https://t.co/NuhKowrPqz #オレ的ゲーム速報＠刃 #game #matomesm https://t.co/47SOIYA4os"^^xsd:string ;
+    tw:messageID "672587731034234880"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:25+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587737229201408> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamematomesm> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "Yahoo!きっず流行語大賞2015に「スプラトゥーン」「マインクラフト」がランクイン！ https://t.co/TrNFZigi7A #えび通 #game #matomesm https://t.co/47SOIYA4os"^^xsd:string ;
+    tw:messageID "672587737229201408"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:27+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587743608725505> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamematomesm> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "FF15って国内ミリオン無理だと思うんだがお前らはどう思う？ https://t.co/0Ia6ZDPcST #ゲハ速 #game #matomesm https://t.co/47SOIYA4os"^^xsd:string ;
+    tw:messageID "672587743608725505"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:28+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587750034374658> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamematomesm> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "何で沢山のゲームが発売されるPS4を買いたくない人がいるの？ https://t.co/GtHhfWroPm #ゲハ速 #game #matomesm https://t.co/47SOIYA4os"^^xsd:string ;
+    tw:messageID "672587750034374658"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:30+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587752333004800> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#redalf13> ;
+    tw:lang "ru"^^xsd:string ;
+    tw:messageContent "Еще одно задание выполнено мной в Mojo Stars: Все \"наши\" в юбках. #game #mojostars"^^xsd:string ;
+    tw:messageID "672587752333004800"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:30+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587756514639872> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamematomesm> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "【悲報】キノピオ「New3DSじゃない雑魚おる？」 https://t.co/JN96RUhxcg #ゲーム魔人 #game #matomesm https://t.co/47SOIYA4os"^^xsd:string ;
+    tw:messageID "672587756514639872"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:31+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587762667642881> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamematomesm> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "【艦これ】運営アイコンがクリスマス仕様の大淀に変化！恥じらう表情とアホ毛が可愛い！ https://t.co/N0rg6LiP4N #艦これ速報 #game #matomesm https://t.co/47SOIYA4os"^^xsd:string ;
+    tw:messageID "672587762667642881"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:33+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587763846279168> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamenews_com> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "【ゲーム速報】 パソナテック、「データサイエンティスト育成プログラム」を開始 - SocialGameInfo: パソナテック、「データサイエンティスト育成プログラム」を開始… https://t.co/ZkN8LCCRHJ #ゲーム情報 #ゲーム速報 #game"^^xsd:string ;
+    tw:messageID "672587763846279168"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:33+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672587767939919874> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamenews_com> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "【ゲーム速報】 新規上場企業の紹介…マイネット（東証マザーズ・3928） - SocialGameInfo: 新規上場企業の紹介…マイネット（東証マザーズ・3928）… https://t.co/PYd3RwQDqg #ゲーム情報 #ゲーム速報 #game"^^xsd:string ;
+    tw:messageID "672587767939919874"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:26:34+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588209541349376> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#bambamsi26> ;
+    tw:lang "es"^^xsd:string ;
+    tw:messageContent "#gaming The Game Awards, sigue aquí la gala en directo https://t.co/XJ4uBa2PeP #game"^^xsd:string ;
+    tw:messageID "672588209541349376"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:28:19+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588216776527873> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#BestVideosToday> ;
+    tw:lang "und"^^xsd:string ;
+    tw:messageContent """#First #Bank (#ngr) v #Ferroviaro (#moz) - #Game #Highlights
+https://t.co/RDtxUnW1TY 
+#00 https://t.co/87QkxzCZ1c"""^^xsd:string ;
+    tw:messageID "672588216776527873"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:28:21+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588241346961408> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gameso9jp> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "Just Cause 3（ジャストコーズ3）でダークソウル・イースターエッグが発見される　ゲーム記事：https://t.co/2v6MgmuF9p タグ： #ゲーム #game"^^xsd:string ;
+    tw:messageID "672588241346961408"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:28:27+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588242835886081> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gameso9jp> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "3DS版「テラリア」 海外発売日が12/10に決定、新トレーラーが公開！　ゲーム記事：https://t.co/4NO054t4AM タグ： #ゲーム #game"^^xsd:string ;
+    tw:messageID "672588242835886081"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:28:27+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588244568158208> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gameso9jp> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "BATTLEFIELD 5（バトルフィールド5）のシングルプレイ・キャンペーンの内容がリーク？？　ゲーム記事：https://t.co/DgYIyQJAp6 タグ： #ゲーム #game"^^xsd:string ;
+    tw:messageID "672588244568158208"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:28:28+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588312335532032> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#mhs_bot> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "「モンスターハンタースピリッツ」新バージョン「03弾 風をまとう古龍」12月17日より稼動 - https://t.co/9bcnQIAyz2 https://t.co/PUyOCeLEuk #mh #capcom #game"^^xsd:string ;
+    tw:messageID "672588312335532032"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:28:44+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588331969069056> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#disley_paul> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT @OrchardToys: #adventcalendar Day 3 You can #win our Pigs in Pants #game! Please follow &amp; RT :) https://t.co/ZlUXWCV3qA"^^xsd:string ;
+    tw:messageID "672489281932365824"^^xsd:string,
+        "672588331969069056"^^xsd:string ;
+    tw:precedingMessageContent "#adventcalendar Day 3 You can #win our Pigs in Pants #game! Please follow &amp; RT :) https://t.co/ZlUXWCV3qA"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672489281932365824> ;
+    tw:sentAt "2015-12-04T01:28:49+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588340680609792> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gregonews> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT @journaldesign: BABEL par CINQPOINTS https://t.co/T87tsvvDeP #journaldudesign #architecture #jeu #construction #tower #game #babel https…"^^xsd:string ;
+    tw:messageID "672366011992158208"^^xsd:string,
+        "672588340680609792"^^xsd:string ;
+    tw:precedingMessageContent "BABEL par CINQPOINTS https://t.co/T87tsvvDeP #journaldudesign #architecture #jeu #construction #tower #game #babel https://t.co/MrFLydFSQ4"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672366011992158208> ;
+    tw:sentAt "2015-12-04T01:28:51+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588342962364417> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#shopl> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT @PiE_JS: Cheesy Run on #Codecanyon https://t.co/vpiwHC1wCH #indiegame #indiedev #indiegamedev #gamedev #EnvatoMarket #HTML5 #Game #Kids"^^xsd:string ;
+    tw:messageID "672503468599468032"^^xsd:string,
+        "672588342962364417"^^xsd:string ;
+    tw:precedingMessageContent "Cheesy Run on #Codecanyon https://t.co/vpiwHC1wCH #indiegame #indiedev #indiegamedev #gamedev #EnvatoMarket #HTML5 #Game #Kids"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672503468599468032> ;
+    tw:sentAt "2015-12-04T01:28:51+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588371563118593> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Haide_kisi> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "RT @maruhashi084: 【Destiny】12月パッチは来週配信、タイタンの調整、エバーバースについてアナウンスされたウィークリーアップデート https://t.co/0il9zEFBgu #Destiny #game https://t.co/aqznyx5G4b"^^xsd:string ;
+    tw:messageID "672582126324293632"^^xsd:string,
+        "672588371563118593"^^xsd:string ;
+    tw:precedingMessageContent "【Destiny】12月パッチは来週配信、タイタンの調整、エバーバースについてアナウンスされたウィークリーアップデート https://t.co/0il9zEFBgu #Destiny #game https://t.co/aqznyx5G4b"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672582126324293632> ;
+    tw:sentAt "2015-12-04T01:28:58+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588371907186688> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#FanGainApp> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Let's get this #game on! https://t.co/AyAR7kdLeC"^^xsd:string ;
+    tw:messageID "672588371907186688"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:28:58+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588424830836736> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#mtantowi> ;
+    tw:lang "in"^^xsd:string ;
+    tw:messageContent "masih ada yang ingat ini game apa ? #nostalgia #game https://t.co/0KzMIHe78X"^^xsd:string ;
+    tw:messageID "672588424830836736"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:29:11+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588475397308417> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#nahsydtasgdhja2> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """RT @GAGaM3rS: Play with "Hit The Orbit", a free #mobile #game! https://t.co/KECOsYkfgX
+@GAGaM3rS #games #RT #RETWEEET @gagpubblicita"""^^xsd:string ;
+    tw:messageID "665578455183048709"^^xsd:string,
+        "672588475397308417"^^xsd:string ;
+    tw:precedingMessageContent """Play with "Hit The Orbit", a free #mobile #game! https://t.co/KECOsYkfgX
+@GAGaM3rS #games #RT #RETWEEET @gagpubblicita"""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#665578455183048709> ;
+    tw:sentAt "2015-12-04T01:29:23+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588483471515648> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Carito15DSC> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """RT @GAGaM3rS: Play with "Soccer Wall", a free #mobile #game! https://t.co/SXB2O7JHIK
+@GAGaM3rS #games #RT #RETWEEET @gagpubblicita"""^^xsd:string ;
+    tw:messageID "665578072456974336"^^xsd:string,
+        "672588483471515648"^^xsd:string ;
+    tw:precedingMessageContent """Play with "Soccer Wall", a free #mobile #game! https://t.co/SXB2O7JHIK
+@GAGaM3rS #games #RT #RETWEEET @gagpubblicita"""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#665578072456974336> ;
+    tw:sentAt "2015-12-04T01:29:25+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588487514722304> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#SwagQuebec> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """RT @GAGaM3rS: Play with "Soccer Wall", a free #mobile #game! https://t.co/SXB2O7JHIK
+@GAGaM3rS #games #RT #RETWEEET @gagpubblicita"""^^xsd:string ;
+    tw:messageID "665578072456974336"^^xsd:string,
+        "672588487514722304"^^xsd:string ;
+    tw:precedingMessageContent """Play with "Soccer Wall", a free #mobile #game! https://t.co/SXB2O7JHIK
+@GAGaM3rS #games #RT #RETWEEET @gagpubblicita"""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#665578072456974336> ;
+    tw:sentAt "2015-12-04T01:29:26+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588494959677444> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#davidjeann1> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """RT @GAGaM3rS: Play with "Take The Dots", a free #mobile #game! https://t.co/zzacFRim6t
+@GAGaM3rS #games #RT #RETWEEET @gagpubblicita"""^^xsd:string ;
+    tw:messageID "665578206255292418"^^xsd:string,
+        "672588494959677444"^^xsd:string ;
+    tw:precedingMessageContent """Play with "Take The Dots", a free #mobile #game! https://t.co/zzacFRim6t
+@GAGaM3rS #games #RT #RETWEEET @gagpubblicita"""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#665578206255292418> ;
+    tw:sentAt "2015-12-04T01:29:27+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588512642732032> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ahmed_rehena> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """RT @gagpubblicita: Play with "Jimmi Jo", a free #mobile #game! https://t.co/UXvalC1AT2
+@gagpubblicita #games #RT #RETWEEET"""^^xsd:string ;
+    tw:messageID "665564452754997248"^^xsd:string,
+        "672588512642732032"^^xsd:string ;
+    tw:precedingMessageContent """Play with "Jimmi Jo", a free #mobile #game! https://t.co/UXvalC1AT2
+@gagpubblicita #games #RT #RETWEEET"""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#665564452754997248> ;
+    tw:sentAt "2015-12-04T01:29:32+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588544657874944> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#yav20052> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """RT @gagpubblicita: Play with "Square Jumping", a free #mobile #game! https://t.co/i1O6bgHdCY
+@GAGaM3rS #games #RT #RETWEEET @gagpubblicita"""^^xsd:string ;
+    tw:messageID "667109206244368386"^^xsd:string,
+        "672588544657874944"^^xsd:string ;
+    tw:precedingMessageContent """Play with "Square Jumping", a free #mobile #game! https://t.co/i1O6bgHdCY
+@GAGaM3rS #games #RT #RETWEEET @gagpubblicita"""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#667109206244368386> ;
+    tw:sentAt "2015-12-04T01:29:39+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588605303328768> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#BestVideosToday> ;
+    tw:lang "und"^^xsd:string ;
+    tw:messageContent """#Kcca (#uga) v #Inss (#cod) - #Game #Highlights
+https://t.co/56c9jfncqa 
+#00 https://t.co/nmpUIpPQ8t"""^^xsd:string ;
+    tw:messageID "672588605303328768"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:29:54+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588641512722432> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#eSmartGameCafe> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "[Fortune Sushi Roll] Turn all children to the same direction! Enjoy the game with your smartphone! https://t.co/GQcoSiKk8g #game"^^xsd:string ;
+    tw:messageID "672588641512722432"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:02+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588656696287232> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ENewtonACM> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Love it. Former juco guy! https://t.co/rHJpx6WoUD"^^xsd:string ;
+    tw:messageID "672588656696287232"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:06+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588673007771648> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#amaz_game> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "[カプコン] 10位 ストリートファイターV HOT!パッケージ (数量限定特典「キャ... https://t.co/rEqRNmeufa  #game #followme #followmejp"^^xsd:string ;
+    tw:messageID "672588673007771648"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:10+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588685716533248> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#dorkysdeals> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Enter to #win your own Squashed #Game! https://t.co/rMx3rsIL11 #giveaway (ends 12/6, open to US) https://t.co/m5fcbf5Zmd"^^xsd:string ;
+    tw:messageID "672588685716533248"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:13+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588700551892992> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#NotizieVirali> ;
+    tw:lang "it"^^xsd:string ;
+    tw:messageContent "#Game of #Thrones6: #IgnazioMarino come #JonSnow, la parodia sul web #ODA15 https://t.co/d56OvDZOKG https://t.co/DKxezrtKC7"^^xsd:string ;
+    tw:messageID "672588700551892992"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:16+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588717324800001> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#amaz_game> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "[カプコン] 9位 ロックマン クラシックス コレクション (【数量限定特典】「... https://t.co/yv8wIc08ux  #game #followme #followmejp"^^xsd:string ;
+    tw:messageID "672588717324800001"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:20+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588750757605376> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#agiefan> ;
+    tw:lang "fr"^^xsd:string ;
+    tw:messageContent "#streetarteverywhere #game #fishingbuddy #mathchat Ab #astrology: D?uvrez l astrologie en toute simplicit?Des hor https://t.co/9nenxw7DTq"^^xsd:string ;
+    tw:messageID "672588750757605376"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:28+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588752376619008> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Madelin13777642> ;
+    tw:lang "fr"^^xsd:string ;
+    tw:messageContent "#streetarteverywhere #game #fishingbuddy #mathchat Ab #astrology: D?uvrez l astrologie en toute simplicit?Des hor https://t.co/sO7ifzX1lD"^^xsd:string ;
+    tw:messageID "672588752376619008"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:29+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588761717321728> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#amaz_game> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "[カプコン] 8位 カプコン クラシックス コレクション Best Price  https://t.co/9t1pSw45oC  #game #followme #followmejp"^^xsd:string ;
+    tw:messageID "672588761717321728"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:31+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588784446246913> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Marcollamas91> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Game awards! #game #videogame #thegameawards #thegameawards2015 #microsoft #nintendo #playstation… https://t.co/qyKjd8cZ97"^^xsd:string ;
+    tw:messageID "672588784446246913"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:36+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588806000742400> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#amaz_game> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "[カプコン] 7位 PROJECT X ZONE 2:BRAVE NEW WORLD  https://t.co/iSRuY7uacz  #game #followme #followmejp"^^xsd:string ;
+    tw:messageID "672588806000742400"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:42+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588812208467968> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#HerecomestheDr> ;
+    tw:lang "pt"^^xsd:string ;
+    tw:messageContent """RT @MarquesZero: THE GAME AWARDS começa em menos de 10 minutos! Vou Streamar e ficar conversando com uma glr que curte os #GAME
+
+vem https:…"""^^xsd:string ;
+    tw:messageID "672586914017517569"^^xsd:string,
+        "672588812208467968"^^xsd:string ;
+    tw:precedingMessageContent """THE GAME AWARDS começa em menos de 10 minutos! Vou Streamar e ficar conversando com uma glr que curte os #GAME
+
+vem https://t.co/3kb1UNJ3Rg"""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672586914017517569> ;
+    tw:sentAt "2015-12-04T01:30:43+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588831040937985> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#jaak77> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#Video_Game_Tester #Jobs Click on the link https://t.co/BwnVWcHgcT https://t.co/cEzvNviPLa #USA #Gaming #Game"^^xsd:string ;
+    tw:messageID "672588831040937985"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:48+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588850284265472> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#amaz_game> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "[カプコン] 6位 モンスターハンター4  https://t.co/tt7tlJsipi  #game #followme #followmejp"^^xsd:string ;
+    tw:messageID "672588850284265472"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:52+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588856395436032> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#arsenalclubchat> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Betfair Launches Netent #Slots with £10 Free offer on Starburst see this great #game at direct link https://t.co/tYvhWnBcKs"^^xsd:string ;
+    tw:messageID "672588856395436032"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:54+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588856429006848> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#topturnbets> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Betfair Launches Netent #Slots with £10 Free offer on Starburst see this great #game at direct link https://t.co/KokWQFpHF1"^^xsd:string ;
+    tw:messageID "672588856429006848"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:54+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588857087541248> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#chelseaclubchat> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Betfair Launches Netent #Slots with £10 Free offer on Starburst see this great #game at direct link https://t.co/k0xTA6tZ4g"^^xsd:string ;
+    tw:messageID "672588857087541248"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:54+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588857909616642> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#manutdclubchat> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Betfair Launches Netent #Slots with £10 Free offer on Starburst see this great #game at direct link https://t.co/yK4HY0B2wt"^^xsd:string ;
+    tw:messageID "672588857909616642"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:54+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588858047991809> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#topturngaming> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Betfair Launches Netent #Slots with £10 Free offer on Starburst see this great #game at direct link https://t.co/r7Kucn4qbV"^^xsd:string ;
+    tw:messageID "672588858047991809"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:54+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588870123282433> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#TheIndigoRider> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Be cooperative then stab 'em in the back! The #game, not the #contest! @SmirkandDagger @SahmReviews Details: https://t.co/NWjbp2FvWl"^^xsd:string ;
+    tw:messageID "672588870123282433"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:57+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588894567706624> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#amaz_game> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "[カプコン] 5位 モンスターハンタークロス (【数量限定特典】「ニンテンドー3... https://t.co/MvAmdoRJ5Z  #game #followme #followmejp"^^xsd:string ;
+    tw:messageID "672588894567706624"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:31:03+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588900594913280> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#camile_poynter> ;
+    tw:lang "es"^^xsd:string ;
+    tw:messageContent "Como perder horas de sono. #game #superstarsm #kpop #shinee #everybody https://t.co/meOQp6PqWE"^^xsd:string ;
+    tw:messageID "672588900594913280"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:31:04+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588904625602560> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#hobbyrank> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "[カプコン] 5位 モンスターハンタークロス (【数量限定特典】「ニンテンドー3... https://t.co/PrrHWsEoVq  #game #followme #followmejp [10:31:05]"^^xsd:string ;
+    tw:messageID "672588904625602560"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:31:05+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588907456962560> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamingjobonlin> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Make Money #Playing Video Games https://t.co/55IQuAYsq0 - #Video #Game Tester #Jobs - Start Making #Money Today https://t.co/R0UEdBC3TK"^^xsd:string ;
+    tw:messageID "672588907456962560"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:31:06+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588939174150144> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#amaz_game> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "[カプコン] 4位 カプコン クラシックス コレクション  https://t.co/wh3XeIMvfx  #game #followme #followmejp"^^xsd:string ;
+    tw:messageID "672588939174150144"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:31:13+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588941229465600> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#mundo_feliz100> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Bee e ea #salute #education #fun #fantasia #sonho #alegria #joke #game #hero #heroes #comics #DC #goodtimes  https://t.co/XsJBVJYJXV"^^xsd:string ;
+    tw:messageID "672588941229465600"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:31:14+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588962314231808> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamingjobonlin> ;
+    tw:lang "und"^^xsd:string ;
+    tw:messageContent "#Video #game #tester #Jobs #Online #Gaming #Pc #Pc4 #Games https://t.co/55IQuAYsq0 https://t.co/vnjvjNSx7d"^^xsd:string ;
+    tw:messageID "672588962314231808"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:31:19+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588983575052288> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#amaz_game> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "[カプコン] 3位 モンスターハンター4G  https://t.co/LBo8C8UKzc  #game #followme #followmejp"^^xsd:string ;
+    tw:messageID "672588983575052288"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:31:24+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589002055249921> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ahmedelmahalwy> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "I've finished the Warehouse Capacity quest! Are you able to fulfil the same task? https://t.co/juNhUqkk5C #android,#androidgames,#game..."^^xsd:string ;
+    tw:messageID "672589002055249921"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:31:28+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589028080803840> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#amaz_game> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "[カプコン] 2位 モンスターハンタークロス [オンラインコード]  https://t.co/8JIUusRfyd  #game #followme #followmejp"^^xsd:string ;
+    tw:messageID "672589028080803840"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:31:35+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589072431382529> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#amaz_game> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "[カプコン] 1位 モンスターハンタークロス  https://t.co/Y6L0AUQM3T  #game #followme #followmejp"^^xsd:string ;
+    tw:messageID "672589072431382529"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:31:45+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589082095128576> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#AlanJones_dv> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Are u fast enough..? https://t.co/MYhVHRl8Ok #androidgame #Trapped #fun #game December 04, 2015 at 07:01AM"^^xsd:string ;
+    tw:messageID "672589082095128576"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:31:47+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589151263309825> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#hobbyrank> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "[カプコン] 1位 モンスターハンタークロス  https://t.co/9v1USbwbIH  #game #followme #followmejp [10:32:03]"^^xsd:string ;
+    tw:messageID "672589151263309825"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:32:04+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589151934500864> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ricardo_gama> ;
+    tw:lang "tl"^^xsd:string ;
+    tw:messageContent "Pwwwwwweeeep #salute #education #fun #fantasia #sonho #alegria #joke #game #hero #heroes #comics #DC #goodtimes  https://t.co/hpRfZCJhHr"^^xsd:string ;
+    tw:messageID "672589151934500864"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:32:04+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589180892012544> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ThePessoa> ;
+    tw:lang "pt"^^xsd:string ;
+    tw:messageContent """The Game Awards 2015 vai começar em alguns minutos!
+Já estamos ao vivo: https://t.co/0sWpIPwC5x #GAME https://t.co/GejxE2r8cv"""^^xsd:string ;
+    tw:messageID "672589180892012544"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:32:11+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589205197840384> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#lovontop22> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Check out this new game I'm playing on FB! Guess The Movie. It's so addictive! #game #loveit https://t.co/ZFew7IhfFp"^^xsd:string ;
+    tw:messageID "672589205197840384"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:32:17+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589210235310081> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#_gouthier> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#VICTUSVINCIMUS #VETERANSREVENGE #next #generation #game the hyper-realistic assets of the #game by #BEATSOFHELL https://t.co/kDflhxP2rP"^^xsd:string ;
+    tw:messageID "672589210235310081"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:32:18+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589214966538240> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#artofpinups> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#VICTUSVINCIMUS #VETERANSREVENGE #next #generation #game the hyper-realistic assets of the #game by #BEATSOFHELL https://t.co/W54uP4584x"^^xsd:string ;
+    tw:messageID "672589214966538240"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:32:19+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589221476081664> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Digital3dworld1> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#VICTUSVINCIMUS #VETERANSREVENGE #next #generation #game the hyper-realistic assets of the #game by #BEATSOFHELL https://t.co/XOaDgvZSMr"^^xsd:string ;
+    tw:messageID "672589221476081664"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:32:21+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589227314569216> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#netsrik2012> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#VICTUSVINCIMUS #VETERANSREVENGE #next #generation #game the hyper-realistic assets of the #game by #BEATSOFHELL https://t.co/ywZNvbMT9O"^^xsd:string ;
+    tw:messageID "672589227314569216"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:32:22+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589231039057920> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#VeteransRevenge> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#VICTUSVINCIMUS #VETERANSREVENGE #next #generation #game the hyper-realistic assets of the #game by #BEATSOFHELL https://t.co/4FZj7BUDvu"^^xsd:string ;
+    tw:messageID "672589231039057920"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:32:23+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589235053076480> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#victusvincimus> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#VICTUSVINCIMUS #VETERANSREVENGE #next #generation #game the hyper-realistic assets of the #game by #BEATSOFHELL https://t.co/SBkF2c2rGf"^^xsd:string ;
+    tw:messageID "672589235053076480"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:32:24+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589258511675392> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ComeCoverMeFB> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "People learn to love their chains https://t.co/MqWN55XI2m #daenerys #game-of-thrones #got #targaryen"^^xsd:string ;
+    tw:messageID "672589258511675392"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:32:29+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589297695006720> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#he1144111> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Enter to  your own Squashed !   (ends 12/6, open to US)  https://t.co/Nwhj5gpuA6"^^xsd:string ;
+    tw:messageID "672589297695006720"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:32:39+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589323829682177> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#HappyMeGames> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT @geekmommedia: Killing Time? Download 1010 the new easy to learn addictive @1010Game #1010Game #Game #Gamer https://t.co/IBrmKiK2sO http…"^^xsd:string ;
+    tw:messageID "672588816197251072"^^xsd:string,
+        "672589323829682177"^^xsd:string ;
+    tw:precedingMessageContent "Killing Time? Download 1010 the new easy to learn addictive @1010Game #1010Game #Game #Gamer https://t.co/IBrmKiK2sO https://t.co/spr0tzgvwT"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672588816197251072> ;
+    tw:sentAt "2015-12-04T01:32:45+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589338228604928> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#dadud3r> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Be cooperative then stab 'em in the back! The #game, not the #contest! @SmirkandDagger @SahmReviews Details: https://t.co/Vl4SrO6yYI"^^xsd:string ;
+    tw:messageID "672589338228604928"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:32:48+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589390288392192> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Merdarf> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#VICTUSVINCIMUS #VETERANSREVENGE #next #generation #game the hyper-realistic assets of the #game by #BEATSOFHELL https://t.co/wiO7ESY76E"^^xsd:string ;
+    tw:messageID "672589390288392192"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:33:01+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589394906374144> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#victusvincimus> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#VICTUSVINCIMUS #VETERANSREVENGE #next #generation #game the hyper-realistic assets of the #game by #BEATSOFHELL https://t.co/5S17Pj7Ejy"^^xsd:string ;
+    tw:messageID "672589394906374144"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:33:02+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589407610798080> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#dgeeknews_FR> ;
+    tw:lang "fr"^^xsd:string ;
+    tw:messageContent "Arslan: The Warriors of Legend : Une démo européenne et deux trailers https://t.co/RfKB1iGF7H #game #jeuvideo https://t.co/ocU5mShZIa"^^xsd:string ;
+    tw:messageID "672589407610798080"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:33:05+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589418796941312> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#RainSage> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#PixelVision - The #handmade portable #game system #Kickstarter! https://t.co/rsnl5Kyyx4 #Nerd #Chic #custom #gamer #oldschool #Geek #Pixels"^^xsd:string ;
+    tw:messageID "672589418796941312"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:33:08+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589433292455936> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#AprenderGameDev> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT @tsatt_team: Have real #physics in #game is great and easy to make but making great #puzzles from it is harder then expected. #indiedev …"^^xsd:string ;
+    tw:messageID "672588299903606785"^^xsd:string,
+        "672589433292455936"^^xsd:string ;
+    tw:precedingMessageContent "Have real #physics in #game is great and easy to make but making great #puzzles from it is harder then expected. #indiedev #gamedev #design"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672588299903606785> ;
+    tw:sentAt "2015-12-04T01:33:11+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589444835368961> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Basket_Agent> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Martell Webster, the Consummate Role Player #game https://t.co/fGBX76oUEN"^^xsd:string ;
+    tw:messageID "672589444835368961"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:33:14+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589447490326528> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#nflfootball_age> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "LSU prez: Miles&amp;#039; fate decided during A&amp;amp;M game #game https://t.co/dOLY0g7mQq"^^xsd:string ;
+    tw:messageID "672589447490326528"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:33:15+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589453333037056> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#he1144111> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Be cooperative then stab 'em in the back! The , not the !   Details:  https://t.co/jBmsTFnnSm"^^xsd:string ;
+    tw:messageID "672589453333037056"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:33:16+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589458621923328> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#pholgrid> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "I've finished the Send 3 invitations quest! Are you able to fulfil the same task? https://t.co/tO28h5yHnk #android,#androidgames,#game..."^^xsd:string ;
+    tw:messageID "672589458621923328"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:33:17+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589506307059712> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#graydonald57> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """RT BestVideosToday #First #Bank (#ngr) v #Ferroviaro (#moz) - #Game #Highlights
+https://t.co/9WcvppAl9i 
+#00 https://t.co/3rWfLUSCle"""^^xsd:string ;
+    tw:messageID "672589506307059712"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:33:29+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589591547875328> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#netsrik2012> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#VICTUSVINCIMUS #VETERANSREVENGE #next #generation #game the hyper-realistic assets of the #game by #BEATSOFHELL https://t.co/WVqsZ2xyGv"^^xsd:string ;
+    tw:messageID "672589591547875328"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:33:49+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589622778724353> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#EmmaPricee43> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT @OrchardToys: #adventcalendar Day 3 You can #win our Pigs in Pants #game! Please follow &amp; RT :) https://t.co/ZlUXWCV3qA"^^xsd:string ;
+    tw:messageID "672489281932365824"^^xsd:string,
+        "672589622778724353"^^xsd:string ;
+    tw:precedingMessageContent "#adventcalendar Day 3 You can #win our Pigs in Pants #game! Please follow &amp; RT :) https://t.co/ZlUXWCV3qA"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672489281932365824> ;
+    tw:sentAt "2015-12-04T01:33:56+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589657146843136> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#waleed_career> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "I've finished the Send 7 invitations quest! Are you able to fulfil the same task? https://t.co/AjYeMN2tZo #android,#androidgames,#game..."^^xsd:string ;
+    tw:messageID "672589657146843136"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:34:05+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589663396327426> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Toyskidsbrinq10> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Beea  #fantasia #sonho #alegria #she #girl #man #joke #game #rir #hero #heroes #comics #DC #goodtimes #brinquedos  https://t.co/R5vEwpAdTv"^^xsd:string ;
+    tw:messageID "672589663396327426"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:34:06+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589704387100672> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Gawfrs> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "If you don't play the #game others are playing, there is no game - Anonymous"^^xsd:string ;
+    tw:messageID "672589704387100672"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:34:16+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589717091799040> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#startupzinfo> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#Game of Thrones season 6 teaser shows that we still know nothing https://t.co/ROoBpC8QId"^^xsd:string ;
+    tw:messageID "672589717091799040"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:34:19+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589754953687040> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#StntnHunycutt1> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT @toysrg28: Odd S  #fantasia #sonho #alegria #she #girl #man #joke #game #rir #hero #heroes #comics #DC #goodtimes #brinquedos  https://t…"^^xsd:string ;
+    tw:messageID "672588394053136384"^^xsd:string,
+        "672589754953687040"^^xsd:string ;
+    tw:precedingMessageContent "Odd S  #fantasia #sonho #alegria #she #girl #man #joke #game #rir #hero #heroes #comics #DC #goodtimes #brinquedos  https://t.co/O39Q2y9BXV"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672588394053136384> ;
+    tw:sentAt "2015-12-04T01:34:28+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589773106728960> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#GamePhoneMag> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Gaming - Boost &gt; 'Star Wars: Commander' Gets New Planet and Units from 'The Force Awaken...https://t.co/6tIGTdieD5 #game"^^xsd:string ;
+    tw:messageID "672589773106728960"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:34:32+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589787526766593> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ElliottGraf> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RainSage: #PixelVision - The #handmade portable #game system #Kickstarter! https://t.co/LVBd448qeh #Nerd #Chic #custom #gamer #oldschool #…"^^xsd:string ;
+    tw:messageID "672589787526766593"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:34:36+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589787832803328> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#nomcay> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "I've finished the More Lumber Needed quest! Are you able to fulfil the same task? https://t.co/Ch0GItI0MF #android,#androidgames,#game..."^^xsd:string ;
+    tw:messageID "672589787832803328"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:34:36+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589892635877376> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#OnlineMpGames> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Play #online #game : Bananamania https://t.co/Pu4DVqW71I"^^xsd:string ;
+    tw:messageID "672589892635877376"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:35:01+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589937003376640> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ToysFunKids1000> ;
+    tw:lang "tl"^^xsd:string ;
+    tw:messageContent "eeHe  #fantasia #sonho #alegria #she #girl #man #joke #game #rir #hero #heroes #comics #DC #goodtimes #brinquedos  https://t.co/7BipeCtNaO"^^xsd:string ;
+    tw:messageID "672589937003376640"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:35:11+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590090980491264> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#onlinstore> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Video Game Tester Jobs Get Paid To Play Video Games! https://t.co/y7fbFV9oIz #freegameonline #game #gameonline #onlinegame #freegame #check"^^xsd:string ;
+    tw:messageID "672590090980491264"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:35:48+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590125172305921> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#BestVideosToday> ;
+    tw:lang "und"^^xsd:string ;
+    tw:messageContent """#Bighorns #Post #Game #Interview 12-1-2015
+https://t.co/k05FavGTbG 
+#00 #1212015 https://t.co/55jFn38ato"""^^xsd:string ;
+    tw:messageID "672590125172305921"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:35:56+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590156289990656> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#AmuletoHenriqu> ;
+    tw:lang "pt"^^xsd:string ;
+    tw:messageContent "Os cidadãos do reino estão felizes! Erga a estrutura Muro do castelo você também! https://t.co/kS0GsTnhDh #android,#androidgames,#game..."^^xsd:string ;
+    tw:messageID "672590156289990656"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:36:04+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590169288138752> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#_Spotless_> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Never let the #fear of striking out keep you from playing the #game. ―Anonymous"^^xsd:string ;
+    tw:messageID "672590169288138752"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:36:07+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590193069830144> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#onlinstore> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Video Game Tester Jobs | Moved To A New Account https://t.co/CULcongblF #game #gametester #videogame #check #gametesterjobs #games"^^xsd:string ;
+    tw:messageID "672590193069830144"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:36:12+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590227098247168> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#onlinstore> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Dynasty's World Of Warcraft Addons https://t.co/AWTYCyjT0m #Warcraft #games #game #check"^^xsd:string ;
+    tw:messageID "672590227098247168"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:36:20+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590255703347200> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#GameHighGeekly> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Gaming&gt;The Race Car Of The Future Is A Work Of Art &gt; Remember earlier this year, when arti https://t.co/2xFOGs7cd1 #game"^^xsd:string ;
+    tw:messageID "672590255703347200"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:36:27+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590261122408448> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#onlinstore> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Dugi World Of Warcraft Guides https://t.co/8nojyKEYGJ #blizzardstore #Warcraft #wowwarlordsofdraenor #armorywow #worldofdraenor #games #game"^^xsd:string ;
+    tw:messageID "672590261122408448"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:36:29+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590295129812992> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#onlinstore> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Become A Video Game Tester https://t.co/d7cIjNFqve #xboxonegames #gametester #games #game #xboxonegame #freegameonline #check"^^xsd:string ;
+    tw:messageID "672590295129812992"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:36:37+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590306261475328> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#LeedsLoversUK> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """RT @Bensonix: you could have told me about this cos it tells u in my profile i support #IndieDev and #GameDev ? :)
+
+#Leeds
+#RT https://t.co…"""^^xsd:string ;
+    tw:messageID "672578754263281664"^^xsd:string,
+        "672590306261475328"^^xsd:string ;
+    tw:precedingMessageContent """you could have told me about this cos it tells u in my profile i support #IndieDev and #GameDev ? :)
+
+#Leeds
+#RT https://t.co/hJOsXtuleg"""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672578754263281664> ;
+    tw:sentAt "2015-12-04T01:36:39+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590320186597376> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#MeireSalvatico> ;
+    tw:lang "pt"^^xsd:string ;
+    tw:messageContent "Chapéus maravilhosos é uma coleção maravilhosa! Inveje-me e complete-a também! https://t.co/srIZUkqyTm #iPad #iPadGames #Game..."^^xsd:string ;
+    tw:messageID "672590320186597376"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:36:43+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590331783741440> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#emilygklein92> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#Game Of Thrones' Season Six First Trailer https://t.co/tUn7nN2vLh https://t.co/gaICv2lq4n"^^xsd:string ;
+    tw:messageID "672590331783741440"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:36:45+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590344832327681> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#VeteransRevenge> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#VICTUSVINCIMUS #VETERANSREVENGE #next #generation #game the hyper-realistic assets of the #game by #BEATSOFHELL https://t.co/jPcVm6JUWa"^^xsd:string ;
+    tw:messageID "672590344832327681"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:36:48+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590391992971264> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#coman_games> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Meanwhile we are telling story of creating our #firstproject #game #indiestudio Carrot Run: https://t.co/DfBc5AYqE3 via @coman_games"^^xsd:string ;
+    tw:messageID "672590391992971264"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:37:00+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590511975346176> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Stilettonvr> ;
+    tw:lang "ru"^^xsd:string ;
+    tw:messageContent "Я выполнил задание в Mojo Stars: На своей волне. #game #mojostars"^^xsd:string ;
+    tw:messageID "672590511975346176"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:37:28+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590537313120256> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Digital3dworld1> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#VICTUSVINCIMUS #VETERANSREVENGE #next #generation #game the hyper-realistic assets of the #game by #BEATSOFHELL https://t.co/R08sj3NIJz"^^xsd:string ;
+    tw:messageID "672590537313120256"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:37:34+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590640740454400> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Kickstartsucces> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT ElliottGraf: RainSage: #PixelVision - The #handmade portable #game system #Kickstarter! https://t.co/6Y12uy05d8  #Nerd #Chic #custom #ga…"^^xsd:string ;
+    tw:messageID "672590640740454400"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:37:59+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590658104909824> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#NorbertoEasley> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RainSage: #PixelVision - The #handmade portable #game system #Kickstarter! https://t.co/a6rHEa4h6z #Nerd #Chic #custom #gamer #oldschool #…"^^xsd:string ;
+    tw:messageID "672590658104909824"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:38:03+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590663612022786> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamehijin1> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "Vita『ミラクルガールズフェスティバル』最新PVはごちうさ「Daydream cafe」！なんか俺たちのコールがノリノリすぎて怖いんですけど・・・ https://t.co/imL48N9Set #game #まとめ"^^xsd:string ;
+    tw:messageID "672590663612022786"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:38:04+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590681962110976> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#NorbertoEasley> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "ElliottGraf: RainSage: #PixelVision - The #handmade portable #game system #Kickstarter! https://t.co/a6rHEa4h6z #Nerd #Chic #custom #gamer…"^^xsd:string ;
+    tw:messageID "672590681962110976"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:38:09+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590687284539392> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#wyvearn> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "RT @maruhashi084: 【Destiny】12月パッチは来週配信、タイタンの調整、エバーバースについてアナウンスされたウィークリーアップデート https://t.co/0il9zEFBgu #Destiny #game https://t.co/aqznyx5G4b"^^xsd:string ;
+    tw:messageID "672582126324293632"^^xsd:string,
+        "672590687284539392"^^xsd:string ;
+    tw:precedingMessageContent "【Destiny】12月パッチは来週配信、タイタンの調整、エバーバースについてアナウンスされたウィークリーアップデート https://t.co/0il9zEFBgu #Destiny #game https://t.co/aqznyx5G4b"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672582126324293632> ;
+    tw:sentAt "2015-12-04T01:38:10+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590708604203008> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#yukuritomo> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "RT @maruhashi084: 【Destiny】NF『フォールンサーベル』せっかくBungieが修正したのに裏世界グリッチ見つかる https://t.co/1z59dsVRWb #Destiny #game https://t.co/aKdwV8BcVC"^^xsd:string ;
+    tw:messageID "672569305960079360"^^xsd:string,
+        "672590708604203008"^^xsd:string ;
+    tw:precedingMessageContent "【Destiny】NF『フォールンサーベル』せっかくBungieが修正したのに裏世界グリッチ見つかる https://t.co/1z59dsVRWb #Destiny #game https://t.co/aKdwV8BcVC"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672569305960079360> ;
+    tw:sentAt "2015-12-04T01:38:15+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590771980279808> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Blackallica> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """RT @MaryFoxxy: 🔥Puppy Dog 3D🔥 
+Download now 👉 https://t.co/Lxogg346ww  
+
+#android #dog #pet #game #iphone https://t.co/UzuPGf2DEf"""^^xsd:string ;
+    tw:messageID "672484301712326656"^^xsd:string,
+        "672590771980279808"^^xsd:string ;
+    tw:precedingMessageContent """🔥Puppy Dog 3D🔥 
+Download now 👉 https://t.co/Lxogg346ww  
+
+#android #dog #pet #game #iphone https://t.co/UzuPGf2DEf"""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672484301712326656> ;
+    tw:sentAt "2015-12-04T01:38:30+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590791848550400> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#tomoe_mami_jc> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "【ドラゴンクエストVII エデンの戦士たち】あの『ドラゴンクエストVII』が、12年以上の歳月を経て遂にニンテンドー３DSで復活！！ #game #DQ #3ds https://t.co/aCyTTfIPXv"^^xsd:string ;
+    tw:messageID "672590791848550400"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:38:35+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590797720694786> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#duckwellsvintag> ;
+    tw:lang "fr"^^xsd:string ;
+    tw:messageContent "✰✰ Antique Authors Game #vintage #game #authors https://t.co/k3rQnpwDqR https://t.co/kZeAn2cYOR"^^xsd:string ;
+    tw:messageID "672590797720694786"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:38:36+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672590879861919744> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#D61N> ;
+    tw:lang "und"^^xsd:string ;
+    tw:messageContent "😈 #Np #RainbowSixSeige #RainbowSix #Game #Xbox #HighTimes https://t.co/mkqUeeD4pz"^^xsd:string ;
+    tw:messageID "672590879861919744"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:38:56+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591106316615680> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#cazunox> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "I've finished the Legendary Crossing quest! Are you able to fulfil the same task? https://t.co/7JmVLG93bV #android,#androidgames,#game..."^^xsd:string ;
+    tw:messageID "672591106316615680"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:39:50+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591163598180352> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#dendyzonaru> ;
+    tw:lang "und"^^xsd:string ;
+    tw:messageContent "X-Men, The Uncanny от 1989 #Играть #Play https://t.co/wQI8ZcrVzZ #Dendy #NES #game #online #DendyZona https://t.co/l2Vh3SgDQN"^^xsd:string ;
+    tw:messageID "672591163598180352"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:40:04+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591167553335296> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#pito_kurei> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "I've finished the Warehouse Capacity quest! Are you able to fulfil the same task? https://t.co/2CPce4tkZU #android,#androidgames,#game..."^^xsd:string ;
+    tw:messageID "672591167553335296"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:40:05+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591181524537344> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#kNamT> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "JTV10:40]FreestyleDangeon5 https://t.co/BJr3aPFtUI #game #mountain #city #goverment #politics #world #microsoft #google #japan #knight"^^xsd:string ;
+    tw:messageID "672591181524537344"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:40:08+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591198289170432> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#TombstoneCS> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """Goto https://t.co/nUGM9sW15A  and use the code!
+#csgo #CSGOgiveaway #giveaway #game #betting #CSGObetting https://t.co/ygMIwDU5li"""^^xsd:string ;
+    tw:messageID "672591198289170432"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:40:12+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591201284042752> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Gamers_Account> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT Gamers_Account: Gamers_Account: RT awesome_letspla: RT DaGameTrain: #Letsplay #WarOfTheRing #Lotr #Gamers #Game… https://t.co/jssKtjSCXx"^^xsd:string ;
+    tw:messageID "672591201284042752"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:40:13+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591208301142016> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Gamers_Account> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Become A Video Game Tester https://t.co/ZbXedy2Gsz #xboxonegames #gametester #games #game #xboxonegame #freegameonline #check"^^xsd:string ;
+    tw:messageID "672591208301142016"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:40:14+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591210637303808> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ToysKids200> ;
+    tw:lang "sv"^^xsd:string ;
+    tw:messageContent "Iddma  #fantasia #sonho #alegria #she #girl #man #joke #game #rir #hero #heroes #comics #DC #goodtimes #brinquedos https://t.co/JHhoxaUtQG"^^xsd:string ;
+    tw:messageID "672591210637303808"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:40:15+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591230417674241> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Oldundy> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT @OrchardToys: #adventcalendar Day 3 You can #win our Pigs in Pants #game! Please follow &amp; RT :) https://t.co/ZlUXWCV3qA"^^xsd:string ;
+    tw:messageID "672489281932365824"^^xsd:string,
+        "672591230417674241"^^xsd:string ;
+    tw:precedingMessageContent "#adventcalendar Day 3 You can #win our Pigs in Pants #game! Please follow &amp; RT :) https://t.co/ZlUXWCV3qA"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672489281932365824> ;
+    tw:sentAt "2015-12-04T01:40:20+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591255189266432> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#juguetes1000> ;
+    tw:lang "nl"^^xsd:string ;
+    tw:messageContent "Hoeee ee eem #salute #education #fun #fantasia #sonho #alegria #joke #game #hero #heroes #comics #DC #goodtimes   https://t.co/Ik8cOcngfH"^^xsd:string ;
+    tw:messageID "672591255189266432"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:40:26+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591297304244224> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#PlayAnarchyGamz> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "https://t.co/9YQkWztoA9 Kick Ass Commandos https://t.co/Srqvefq1Gk Steam Early Access #B172 #game #games #gaming #retrogaming #gamemusic"^^xsd:string ;
+    tw:messageID "672591297304244224"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:40:36+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591298919047169> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#shirleyleng> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "The moment you realized that you pre-ordered a #game on #amazon that should deliver two weeks from now, but the game comes out tomorrow. ;O;"^^xsd:string ;
+    tw:messageID "672591298919047169"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:40:36+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591339528192000> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ryuubankokyo> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "RT @openworldnews: 【CoD:BO3】ランチャーが優秀だから対空は一人で十分だよね https://t.co/PIinUMh80Y #PS4 #BO3 #game #ゲーム #cod https://t.co/rwq0pg5suo"^^xsd:string ;
+    tw:messageID "672553953352028160"^^xsd:string,
+        "672591339528192000"^^xsd:string ;
+    tw:precedingMessageContent "【CoD:BO3】ランチャーが優秀だから対空は一人で十分だよね https://t.co/PIinUMh80Y #PS4 #BO3 #game #ゲーム #cod https://t.co/rwq0pg5suo"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672553953352028160> ;
+    tw:sentAt "2015-12-04T01:40:46+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591385862672384> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#pta_kan> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "RT @maruhashi084: 【Destiny】12月パッチは来週配信、タイタンの調整、エバーバースについてアナウンスされたウィークリーアップデート https://t.co/0il9zEFBgu #Destiny #game https://t.co/aqznyx5G4b"^^xsd:string ;
+    tw:messageID "672582126324293632"^^xsd:string,
+        "672591385862672384"^^xsd:string ;
+    tw:precedingMessageContent "【Destiny】12月パッチは来週配信、タイタンの調整、エバーバースについてアナウンスされたウィークリーアップデート https://t.co/0il9zEFBgu #Destiny #game https://t.co/aqznyx5G4b"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672582126324293632> ;
+    tw:sentAt "2015-12-04T01:40:57+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591400605741056> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#HappyMeGames> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """RT @SwordSharpGames: Be the best you can be, in AND out of the #game...
+
+#gamer"""^^xsd:string ;
+    tw:messageID "672589320507686913"^^xsd:string,
+        "672591400605741056"^^xsd:string ;
+    tw:precedingMessageContent """Be the best you can be, in AND out of the #game...
+
+#gamer"""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672589320507686913> ;
+    tw:sentAt "2015-12-04T01:41:00+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591420826480640> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ComandanteJR009> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """RT @WARIIRAW1: #Fallout4 #Game #Xboxone #Gaming #Videojuego
+Hilarious Behemoth Walk!
+https://t.co/SNpJi9OA5G https://t.co/sd2EdxzpVY"""^^xsd:string ;
+    tw:messageID "672460703954018304"^^xsd:string,
+        "672591420826480640"^^xsd:string ;
+    tw:precedingMessageContent """#Fallout4 #Game #Xboxone #Gaming #Videojuego
+Hilarious Behemoth Walk!
+https://t.co/SNpJi9OA5G https://t.co/sd2EdxzpVY"""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672460703954018304> ;
+    tw:sentAt "2015-12-04T01:41:05+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591427029876736> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ToysKids200> ;
+    tw:lang "tr"^^xsd:string ;
+    tw:messageContent "Relâ  #fantasia #sonho #alegria #she #girl #man #joke #game #rir #hero #heroes #comics #DC #goodtimes #brinquedos  https://t.co/SfImyFhL5i"^^xsd:string ;
+    tw:messageID "672591427029876736"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:41:07+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591461322326016> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#TNTGamesNews> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#game Who really plays Magic: The Gathering?:  (Produced in partnership with Hasbro) Magic has a long history ... https://t.co/ZFm1Rsz9Vt"^^xsd:string ;
+    tw:messageID "672591461322326016"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:41:15+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591514137001986> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#omake4253> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "RT @maruhashi084: 【Destiny】NF『フォールンサーベル』せっかくBungieが修正したのに裏世界グリッチ見つかる https://t.co/1z59dsVRWb #Destiny #game https://t.co/aKdwV8BcVC"^^xsd:string ;
+    tw:messageID "672569305960079360"^^xsd:string,
+        "672591514137001986"^^xsd:string ;
+    tw:precedingMessageContent "【Destiny】NF『フォールンサーベル』せっかくBungieが修正したのに裏世界グリッチ見つかる https://t.co/1z59dsVRWb #Destiny #game https://t.co/aKdwV8BcVC"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672569305960079360> ;
+    tw:sentAt "2015-12-04T01:41:27+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591593933770752> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#AnastasiaW> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """At #TheGameAwards with Curiousjoi ! What's your favorite game this year?
+#videogames #game #gamer #vga https://t.co/hmvSImvauY"""^^xsd:string ;
+    tw:messageID "672591593933770752"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:41:46+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591607711989760> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#blju_307> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Farland History Ⅱ https://t.co/7LBd4G7mV5 #game"^^xsd:string ;
+    tw:messageID "672591607711989760"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:41:50+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591614246715392> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#JaredTheGreek> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """The @SR_SecretStage #Game #News is here!
+https://t.co/p1O1pOGyKO
+#MortalKombatX #ShineMegamiTensei #SMT #FireEmblem"""^^xsd:string ;
+    tw:messageID "672591614246715392"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:41:51+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591615219879936> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#jakoporeturned> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT @OrchardToys: #adventcalendar Day 3 You can #win our Pigs in Pants #game! Please follow &amp; RT :) https://t.co/ZlUXWCV3qA"^^xsd:string ;
+    tw:messageID "672489281932365824"^^xsd:string,
+        "672591615219879936"^^xsd:string ;
+    tw:precedingMessageContent "#adventcalendar Day 3 You can #win our Pigs in Pants #game! Please follow &amp; RT :) https://t.co/ZlUXWCV3qA"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672489281932365824> ;
+    tw:sentAt "2015-12-04T01:41:51+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591639207133184> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#GamersFuns> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Doom Alpha Now Open For All If You Hurry #gaming #clashofclans #gameplay #game Go to https://t.co/CZcAKKvUvx"^^xsd:string ;
+    tw:messageID "672591639207133184"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:41:57+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591681410064384> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#aukoeuco> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "『エレメンタルモンスター　シャドーオブハダー（丸伝次郎(作画)、ハドソン(監修)、Kira(脚本)）』 復刊リクエスト投票 https://t.co/aoc0ocKpko @fukkan_comから #fukkan #commic #manga #game"^^xsd:string ;
+    tw:messageID "672591681410064384"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:42:07+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591688012009472> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#toysfunbrin> ;
+    tw:lang "und"^^xsd:string ;
+    tw:messageContent "Ion   #fantasia #sonho #alegria #she #girl #man #joke #game #rir #hero #heroes #comics #DC #goodtimes #brinquedos  https://t.co/emohAoDdzA"^^xsd:string ;
+    tw:messageID "672591688012009472"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:42:09+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591946104180737> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#shiratori1221> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent """RT @nullpodesu: https://t.co/IjaDD0N9G0
+or
+https://t.co/7q5XqrgHTx
+MuvLuvGame in UE4.
+開発中のゲームです、ご意見ご感想お待ちしております！
+. #game #ゲーム #muv_luv #muv…"""^^xsd:string ;
+    tw:messageID "672591743439605760"^^xsd:string,
+        "672591946104180737"^^xsd:string ;
+    tw:precedingMessageContent """https://t.co/IjaDD0N9G0
+or
+https://t.co/7q5XqrgHTx
+MuvLuvGame in UE4.
+開発中のゲームです、ご意見ご感想お待ちしております！
+. #game #ゲーム #muv_luv #muvluv ."""^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672591743439605760> ;
+    tw:sentAt "2015-12-04T01:43:10+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592061745512448> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ZlmBnkr> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT @MyAppFile: #android #download 'Kika Emoji Keyboard - GIF Free' @ https://t.co/umx3N2Ja7I #apkfiles #free #game #apk #new #pla… https://…"^^xsd:string ;
+    tw:messageID "672523132910092288"^^xsd:string,
+        "672592061745512448"^^xsd:string ;
+    tw:precedingMessageContent "#android #download 'Kika Emoji Keyboard - GIF Free' @ https://t.co/umx3N2Ja7I #apkfiles #free #game #apk #new #pla… https://t.co/pqLsZRSOqK"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:retweetOf <http://purl.org/socialparticipation/tw/Message#672523132910092288> ;
+    tw:sentAt "2015-12-04T01:43:38+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592136026644481> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#RazerRec> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """Goto  and use the code!
+       https://t.co/d4MRp8hDvP"""^^xsd:string ;
+    tw:messageID "672592136026644481"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:43:56+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592224769712128> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#MigdaAdrian> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "I've finished the Warehouse Capacity quest! Are you able to fulfil the same task? https://t.co/C82K1WId91 #android,#androidgames,#game..."^^xsd:string ;
+    tw:messageID "672592224769712128"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:44:17+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592252422631424> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#gamestoper4> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "I think  #ShovelKnight Plague of shadows should be shown for #indie #game #goty #TheGameAwards"^^xsd:string ;
+    tw:messageID "672592252422631424"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:44:23+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592304792735744> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#mabaho_ako> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """“Thank you, Kobe - SLAMonline Philippines” 
+#Game https://t.co/yFhzzDuVaM"""^^xsd:string ;
+    tw:messageID "672592304792735744"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:44:36+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592329715245057> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#careerrobot> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "#Game Awards 2015 Sale Goes Live on Xbox Marketplace #jobs #money #work #: With PSN and Steam getting their ow... https://t.co/Hl5RuWzIc3"^^xsd:string ;
+    tw:messageID "672592329715245057"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:44:42+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592413647499265> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#krmnf6> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "OMG!!!! Watch \"Game of Thrones Season 6: Tease (HBO)\" on YouTube https://t.co/vAR2k7OInN #Game ofThrones #GoT #cantwait"^^xsd:string ;
+    tw:messageID "672592413647499265"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:45:02+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592415396499456> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#web_syokunin> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent "マッチ棒パズルで脳トレ！ ☆★ 【問題：85+7-6=12】 マッチを一本移動させて正しい計算式にしてネ。こちらからトライ！⇒ https://t.co/xeIt1Xg1p0☆★ #game #ゲーム"^^xsd:string ;
+    tw:messageID "672592415396499456"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:45:02+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592420056371201> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#superflashapps> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Take a break from the #football commercials and play a #game of Royal Edge Solitaire! https://t.co/zTYbqcVJ5F https://t.co/TuE3apwfqr"^^xsd:string ;
+    tw:messageID "672592420056371201"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:45:03+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592445071163392> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#JamesMFinch> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Fallout 4's skeletons have a story to tell - https://t.co/muV7dVvCqU #fallout4 #game #skeleton #story #dead #vault"^^xsd:string ;
+    tw:messageID "672592445071163392"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:45:09+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592521164386304> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#MohMavadati> ;
+    tw:inReplyToUID 74432340 ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "@Affectiva  booth at @Tech_in_Motion with #emotion aware #game using multi-platform #sdk https://t.co/NPQyXLmdIA"^^xsd:string ;
+    tw:messageID "672592521164386304"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:45:27+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592536372924417> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#Toys_Kids100> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Bee  e ar #salute #education #fun #fantasia #sonho #alegria #joke #game #hero #heroes #comics #DC #goodtimes  https://t.co/40hxbuqhPf"^^xsd:string ;
+    tw:messageID "672592536372924417"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:45:31+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592537379545088> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#ErickMaia4> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "RT : Have real  in  is great and easy to make but making great  from it is harder then expected.    https://t.co/sIvuLwNXzw"^^xsd:string ;
+    tw:messageID "672592537379545088"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:45:31+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592587744632832> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#iTouchRev> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "New Details on PS2 Emulation for PS4 Leaked: Following Sony's confirmation that PS2 emulatio... https://t.co/J4IownLxAy #Technology #Game"^^xsd:string ;
+    tw:messageID "672592587744632832"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:45:43+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672592643449335808> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#boo_boo_judy> ;
+    tw:lang "und"^^xsd:string ;
+    tw:messageContent "#thatspider #got #game #iFunny https://t.co/4C1g6wKl1w https://t.co/ki80M10liH"^^xsd:string ;
+    tw:messageID "672592643449335808"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:45:57+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Participant#Bensonix> a tw:Participant ;
+    tw:name "David G griffiths"^^xsd:string ;
+    tw:sid "Bensonix"^^xsd:string ;
+    tw:uid "135456764"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#GAGaM3rS> a tw:Participant ;
+    tw:name "GAG Game Developers"^^xsd:string ;
+    tw:sid "GAGaM3rS"^^xsd:string ;
+    tw:uid "4187725715"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#MarquesZero> a tw:Participant ;
+    tw:name "MarquesZero"^^xsd:string ;
+    tw:sid "MarquesZero"^^xsd:string ;
+    tw:uid "90787515"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#MaryFoxxy> a tw:Participant ;
+    tw:name "MaryFoxx"^^xsd:string ;
+    tw:sid "MaryFoxxy"^^xsd:string ;
+    tw:uid "2810007166"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#MyAppFile> a tw:Participant ;
+    tw:name "Apkfiles"^^xsd:string ;
+    tw:sid "MyAppFile"^^xsd:string ;
+    tw:uid "534183390"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#OrchardToys> a tw:Participant ;
+    tw:name "Orchard Toys"^^xsd:string ;
+    tw:sid "OrchardToys"^^xsd:string ;
+    tw:uid "25659531"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#PiE_JS> a tw:Participant ;
+    tw:name "Philip Evans"^^xsd:string ;
+    tw:sid "PiE_JS"^^xsd:string ;
+    tw:uid "3221850455"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#WARIIRAW1> a tw:Participant ;
+    tw:name "WARIIRAW"^^xsd:string ;
+    tw:sid "WARIIRAW1"^^xsd:string ;
+    tw:uid "3390434847"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#gagpubblicita> a tw:Participant ;
+    tw:name "GAG - Pubblicità"^^xsd:string ;
+    tw:sid "gagpubblicita"^^xsd:string ;
+    tw:uid "1253078700"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#journaldesign> a tw:Participant ;
+    tw:name "journal du design"^^xsd:string ;
+    tw:sid "journaldesign"^^xsd:string ;
+    tw:uid "83599236"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#maruhashi084> a tw:Participant ;
+    tw:name "ゲーム攻略のまるはし"^^xsd:string ;
+    tw:sid "maruhashi084"^^xsd:string ;
+    tw:uid "123146945"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#openworldnews> a tw:Participant ;
+    tw:name "PS4速報！"^^xsd:string ;
+    tw:sid "openworldnews"^^xsd:string ;
+    tw:uid "2495759521"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Message#665564452754997248> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#665578206255292418> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#665578455183048709> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#667109206244368386> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#672366011992158208> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#672460703954018304> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#672484301712326656> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#672503468599468032> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#672523132910092288> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#672553953352028160> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#672578754263281664> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#672588299903606785> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#tsatt_team> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Have real #physics in #game is great and easy to make but making great #puzzles from it is harder then expected. #indiedev #gamedev #design"^^xsd:string ;
+    tw:messageID "672588299903606785"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:28:41+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588394053136384> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#toysrg28> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Odd S  #fantasia #sonho #alegria #she #girl #man #joke #game #rir #hero #heroes #comics #DC #goodtimes #brinquedos  https://t.co/O39Q2y9BXV"^^xsd:string ;
+    tw:messageID "672588394053136384"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:29:03+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672588816197251072> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#geekmommedia> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent "Killing Time? Download 1010 the new easy to learn addictive @1010Game #1010Game #Game #Gamer https://t.co/IBrmKiK2sO https://t.co/spr0tzgvwT"^^xsd:string ;
+    tw:messageID "672588816197251072"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:30:44+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672589320507686913> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#SwordSharpGames> ;
+    tw:lang "en"^^xsd:string ;
+    tw:messageContent """Be the best you can be, in AND out of the #game...
+
+#gamer"""^^xsd:string ;
+    tw:messageID "672589320507686913"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:32:44+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Message#672591743439605760> a tw:Message ;
+    tw:author <http://purl.org/socialparticipation/tw/Participant#nullpodesu> ;
+    tw:lang "ja"^^xsd:string ;
+    tw:messageContent """https://t.co/IjaDD0N9G0
+or
+https://t.co/7q5XqrgHTx
+MuvLuvGame in UE4.
+開発中のゲームです、ご意見ご感想お待ちしております！
+. #game #ゲーム #muv_luv #muvluv ."""^^xsd:string ;
+    tw:messageID "672591743439605760"^^xsd:string ;
+    tw:retweetCount 0 ;
+    tw:sentAt "2015-12-04T01:42:22+00:00"^^xsd:datetime .
+
+<http://purl.org/socialparticipation/tw/Participant#AiRRose2k> a tw:Participant ;
+    tw:favouritesCount 6 ;
+    tw:followersCount 77 ;
+    tw:friendsCount 23 ;
+    tw:sid "AiRRose2k"^^xsd:string ;
+    tw:uLocation "Chicago"^^xsd:string ;
+    tw:uid "781074793"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#AlanJones_dv> a tw:Participant ;
+    tw:favouritesCount 62 ;
+    tw:followersCount 822 ;
+    tw:friendsCount 870 ;
+    tw:sid "AlanJones_dv"^^xsd:string ;
+    tw:uid "4010440872"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#AmuletoHenriqu> a tw:Participant ;
+    tw:favouritesCount 32 ;
+    tw:followersCount 4 ;
+    tw:friendsCount 5 ;
+    tw:sid "AmuletoHenriqu"^^xsd:string ;
+    tw:uid "3633337875"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#AnastasiaW> a tw:Participant ;
+    tw:favouritesCount 5092 ;
+    tw:followersCount 1771 ;
+    tw:friendsCount 926 ;
+    tw:sid "AnastasiaW"^^xsd:string ;
+    tw:uLocation "Los Angeles"^^xsd:string ;
+    tw:uid "19699159"^^xsd:string ;
+    tw:utcOffset -32400 .
+
+<http://purl.org/socialparticipation/tw/Participant#AprenderGameDev> a tw:Participant ;
+    tw:favouritesCount 516 ;
+    tw:followersCount 3396 ;
+    tw:friendsCount 1717 ;
+    tw:sid "AprenderGameDev"^^xsd:string ;
+    tw:uid "3690045082"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#Basket_Agent> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 1947 ;
+    tw:friendsCount 1899 ;
+    tw:sid "Basket_Agent"^^xsd:string ;
+    tw:uid "2174329848"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#Blackallica> a tw:Participant ;
+    tw:favouritesCount 8845 ;
+    tw:followersCount 654 ;
+    tw:friendsCount 651 ;
+    tw:sid "Blackallica"^^xsd:string ;
+    tw:uLocation "Black hole in space and time."^^xsd:string ;
+    tw:uid "3251792923"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#BrinquedosRJ100> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 10 ;
+    tw:friendsCount 40 ;
+    tw:sid "BrinquedosRJ100"^^xsd:string ;
+    tw:uid "4097419233"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#Carito15DSC> a tw:Participant ;
+    tw:favouritesCount 2597 ;
+    tw:followersCount 61 ;
+    tw:friendsCount 43 ;
+    tw:sid "Carito15DSC"^^xsd:string ;
+    tw:uid "4199617605"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#ComandanteJR009> a tw:Participant ;
+    tw:favouritesCount 122 ;
+    tw:followersCount 5 ;
+    tw:friendsCount 84 ;
+    tw:sid "ComandanteJR009"^^xsd:string ;
+    tw:uid "4428973874"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#ComeCoverMeFB> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 57 ;
+    tw:friendsCount 15 ;
+    tw:sid "ComeCoverMeFB"^^xsd:string ;
+    tw:uLocation "The Net"^^xsd:string ;
+    tw:uid "1436143670"^^xsd:string ;
+    tw:utcOffset -21600 .
+
+<http://purl.org/socialparticipation/tw/Participant#D61N> a tw:Participant ;
+    tw:favouritesCount 148 ;
+    tw:followersCount 237 ;
+    tw:friendsCount 406 ;
+    tw:sid "D61N"^^xsd:string ;
+    tw:uLocation "CHICAGO BOUND"^^xsd:string ;
+    tw:uid "48766393"^^xsd:string ;
+    tw:utcOffset -21600 .
+
+<http://purl.org/socialparticipation/tw/Participant#ENewtonACM> a tw:Participant ;
+    tw:favouritesCount 71 ;
+    tw:followersCount 36 ;
+    tw:friendsCount 58 ;
+    tw:sid "ENewtonACM"^^xsd:string ;
+    tw:uLocation "Cumberland, MD"^^xsd:string ;
+    tw:uid "4004430591"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#ElliottGraf> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 59 ;
+    tw:friendsCount 60 ;
+    tw:sid "ElliottGraf"^^xsd:string ;
+    tw:uid "4329988161"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#EmmaPricee43> a tw:Participant ;
+    tw:favouritesCount 7979 ;
+    tw:followersCount 401 ;
+    tw:friendsCount 3003 ;
+    tw:sid "EmmaPricee43"^^xsd:string ;
+    tw:uid "2418669053"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#ErickMaia4> a tw:Participant ;
+    tw:favouritesCount 819 ;
+    tw:followersCount 837 ;
+    tw:friendsCount 426 ;
+    tw:sid "ErickMaia4"^^xsd:string ;
+    tw:uid "523587074"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#FanGainApp> a tw:Participant ;
+    tw:favouritesCount 421 ;
+    tw:followersCount 561 ;
+    tw:friendsCount 486 ;
+    tw:sid "FanGainApp"^^xsd:string ;
+    tw:uid "4007492413"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#GameHighGeekly> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 6618 ;
+    tw:friendsCount 6382 ;
+    tw:sid "GameHighGeekly"^^xsd:string ;
+    tw:uLocation "New York, NY, United States"^^xsd:string ;
+    tw:uid "3011288651"^^xsd:string ;
+    tw:utcOffset -18000 .
+
+<http://purl.org/socialparticipation/tw/Participant#GamePhoneMag> a tw:Participant ;
+    tw:favouritesCount 1 ;
+    tw:followersCount 2571 ;
+    tw:friendsCount 2482 ;
+    tw:sid "GamePhoneMag"^^xsd:string ;
+    tw:uLocation "New York, NY, United States"^^xsd:string ;
+    tw:uid "3339891874"^^xsd:string ;
+    tw:utcOffset -18000 .
+
+<http://purl.org/socialparticipation/tw/Participant#GamersFuns> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 974 ;
+    tw:friendsCount 171 ;
+    tw:sid "GamersFuns"^^xsd:string ;
+    tw:uLocation "United States"^^xsd:string ;
+    tw:uid "3412716543"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#Gawfrs> a tw:Participant ;
+    tw:favouritesCount 411 ;
+    tw:followersCount 487 ;
+    tw:friendsCount 593 ;
+    tw:sid "Gawfrs"^^xsd:string ;
+    tw:uLocation "McMinnville, Oregon  Go Ducks!"^^xsd:string ;
+    tw:uid "470012767"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#Haide_kisi> a tw:Participant ;
+    tw:favouritesCount 1048 ;
+    tw:followersCount 607 ;
+    tw:friendsCount 667 ;
+    tw:sid "Haide_kisi"^^xsd:string ;
+    tw:uLocation "んろんろんもよのとほお"^^xsd:string ;
+    tw:uid "2534505230"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#HerecomestheDr> a tw:Participant ;
+    tw:favouritesCount 341 ;
+    tw:followersCount 22 ;
+    tw:friendsCount 145 ;
+    tw:sid "HerecomestheDr"^^xsd:string ;
+    tw:uLocation "♊ & ♋"^^xsd:string ;
+    tw:uid "3691353262"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#JRToysJuguetes> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 14 ;
+    tw:friendsCount 13 ;
+    tw:sid "JRToysJuguetes"^^xsd:string ;
+    tw:uid "2862711425"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#JamesMFinch> a tw:Participant ;
+    tw:favouritesCount 1044 ;
+    tw:followersCount 81 ;
+    tw:friendsCount 284 ;
+    tw:sid "JamesMFinch"^^xsd:string ;
+    tw:uLocation "Cogan Station, PA"^^xsd:string ;
+    tw:uid "22259942"^^xsd:string ;
+    tw:utcOffset -18000 .
+
+<http://purl.org/socialparticipation/tw/Participant#JaredTheGreek> a tw:Participant ;
+    tw:favouritesCount 1202 ;
+    tw:followersCount 89 ;
+    tw:friendsCount 156 ;
+    tw:sid "JaredTheGreek"^^xsd:string ;
+    tw:uLocation "Boston, MA"^^xsd:string ;
+    tw:uid "2704483705"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#JoNatalizio> a tw:Participant ;
+    tw:favouritesCount 7 ;
+    tw:followersCount 285 ;
+    tw:friendsCount 120 ;
+    tw:sid "JoNatalizio"^^xsd:string ;
+    tw:uLocation "Brasil"^^xsd:string ;
+    tw:uid "295744888"^^xsd:string ;
+    tw:utcOffset -7200 .
+
+<http://purl.org/socialparticipation/tw/Participant#Kickstartsucces> a tw:Participant ;
+    tw:favouritesCount 119 ;
+    tw:followersCount 143393 ;
+    tw:friendsCount 111 ;
+    tw:sid "Kickstartsucces"^^xsd:string ;
+    tw:uLocation "Worldwide"^^xsd:string ;
+    tw:uid "2895455096"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#LeedsLoversUK> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 3272 ;
+    tw:friendsCount 2480 ;
+    tw:sid "LeedsLoversUK"^^xsd:string ;
+    tw:uLocation "Leeds, England"^^xsd:string ;
+    tw:uid "3089061952"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#MARTELLEINTL> a tw:Participant ;
+    tw:favouritesCount 18 ;
+    tw:followersCount 36395 ;
+    tw:friendsCount 2514 ;
+    tw:sid "MARTELLEINTL"^^xsd:string ;
+    tw:uLocation "SE USA"^^xsd:string ;
+    tw:uid "78963762"^^xsd:string ;
+    tw:utcOffset -21600 .
+
+<http://purl.org/socialparticipation/tw/Participant#Madelin13777642> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 334 ;
+    tw:friendsCount 468 ;
+    tw:sid "Madelin13777642"^^xsd:string ;
+    tw:uid "2597114924"^^xsd:string ;
+    tw:utcOffset 10800 .
+
+<http://purl.org/socialparticipation/tw/Participant#Marcollamas91> a tw:Participant ;
+    tw:favouritesCount 229 ;
+    tw:followersCount 469 ;
+    tw:friendsCount 1649 ;
+    tw:sid "Marcollamas91"^^xsd:string ;
+    tw:uLocation "United States"^^xsd:string ;
+    tw:uid "78686688"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#MeireSalvatico> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 0 ;
+    tw:friendsCount 1 ;
+    tw:sid "MeireSalvatico"^^xsd:string ;
+    tw:uid "3045197489"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#Merdarf> a tw:Participant ;
+    tw:favouritesCount 49 ;
+    tw:followersCount 15962 ;
+    tw:friendsCount 162 ;
+    tw:sid "Merdarf"^^xsd:string ;
+    tw:uLocation "Canada"^^xsd:string ;
+    tw:uid "3798049395"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#MigdaAdrian> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 0 ;
+    tw:friendsCount 2 ;
+    tw:sid "MigdaAdrian"^^xsd:string ;
+    tw:uid "4359810689"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#MohMavadati> a tw:Participant ;
+    tw:favouritesCount 18 ;
+    tw:followersCount 25 ;
+    tw:friendsCount 78 ;
+    tw:sid "MohMavadati"^^xsd:string ;
+    tw:uLocation "Waltham, MA"^^xsd:string ;
+    tw:uid "3438149747"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#MusicianGadgets> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 38 ;
+    tw:friendsCount 40 ;
+    tw:sid "MusicianGadgets"^^xsd:string ;
+    tw:uid "3690102556"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#NotizieVirali> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 189 ;
+    tw:friendsCount 545 ;
+    tw:sid "NotizieVirali"^^xsd:string ;
+    tw:uid "3390709577"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#Oldundy> a tw:Participant ;
+    tw:favouritesCount 1455 ;
+    tw:followersCount 878 ;
+    tw:friendsCount 2599 ;
+    tw:sid "Oldundy"^^xsd:string ;
+    tw:uid "4039460176"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#OnlineMpGames> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 0 ;
+    tw:friendsCount 0 ;
+    tw:sid "OnlineMpGames"^^xsd:string ;
+    tw:uid "3281555762"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#PlayAnarchyGamz> a tw:Participant ;
+    tw:favouritesCount 144 ;
+    tw:followersCount 578 ;
+    tw:friendsCount 865 ;
+    tw:sid "PlayAnarchyGamz"^^xsd:string ;
+    tw:uid "846225554"^^xsd:string ;
+    tw:utcOffset -18000 .
+
+<http://purl.org/socialparticipation/tw/Participant#RainSage> a tw:Participant ;
+    tw:favouritesCount 214 ;
+    tw:followersCount 68 ;
+    tw:friendsCount 86 ;
+    tw:sid "RainSage"^^xsd:string ;
+    tw:uLocation "Las Vegas"^^xsd:string ;
+    tw:uid "22343675"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#RazerRec> a tw:Participant ;
+    tw:favouritesCount 4 ;
+    tw:followersCount 79 ;
+    tw:friendsCount 32 ;
+    tw:sid "RazerRec"^^xsd:string ;
+    tw:uid "2353126886"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#ReneeReview> a tw:Participant ;
+    tw:favouritesCount 499 ;
+    tw:followersCount 526 ;
+    tw:friendsCount 955 ;
+    tw:sid "ReneeReview"^^xsd:string ;
+    tw:uLocation "Ultima Thule"^^xsd:string ;
+    tw:uid "1400898841"^^xsd:string ;
+    tw:utcOffset -25200 .
+
+<http://purl.org/socialparticipation/tw/Participant#Stilettonvr> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 2 ;
+    tw:friendsCount 2 ;
+    tw:sid "Stilettonvr"^^xsd:string ;
+    tw:uid "4127839703"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#StntnHunycutt1> a tw:Participant ;
+    tw:favouritesCount 30 ;
+    tw:followersCount 78 ;
+    tw:friendsCount 320 ;
+    tw:sid "StntnHunycutt1"^^xsd:string ;
+    tw:uid "4243543874"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#SwagQuebec> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 225 ;
+    tw:friendsCount 1905 ;
+    tw:sid "SwagQuebec"^^xsd:string ;
+    tw:uLocation "Quebec"^^xsd:string ;
+    tw:uid "1228930944"^^xsd:string ;
+    tw:utcOffset -18000 .
+
+<http://purl.org/socialparticipation/tw/Participant#SwordSharpGames> a tw:Participant ;
+    tw:favouritesCount 142 ;
+    tw:followersCount 286 ;
+    tw:friendsCount 280 ;
+    tw:name "SwordSharp"^^xsd:string ;
+    tw:sid "SwordSharpGames"^^xsd:string ;
+    tw:uid "2418171468"^^xsd:string ;
+    tw:utcOffset -25200 .
+
+<http://purl.org/socialparticipation/tw/Participant#TNTGamesNews> a tw:Participant ;
+    tw:favouritesCount 3 ;
+    tw:followersCount 30 ;
+    tw:friendsCount 20 ;
+    tw:sid "TNTGamesNews"^^xsd:string ;
+    tw:uid "2311761810"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#TheIndigoRider> a tw:Participant ;
+    tw:favouritesCount 230 ;
+    tw:followersCount 180 ;
+    tw:friendsCount 342 ;
+    tw:sid "TheIndigoRider"^^xsd:string ;
+    tw:uid "412604713"^^xsd:string ;
+    tw:utcOffset -21600 .
+
+<http://purl.org/socialparticipation/tw/Participant#ThePessoa> a tw:Participant ;
+    tw:favouritesCount 433 ;
+    tw:followersCount 123 ;
+    tw:friendsCount 102 ;
+    tw:sid "ThePessoa"^^xsd:string ;
+    tw:uid "2942169880"^^xsd:string ;
+    tw:utcOffset -7200 .
+
+<http://purl.org/socialparticipation/tw/Participant#TheVictorVieira> a tw:Participant ;
+    tw:favouritesCount 3358 ;
+    tw:followersCount 137 ;
+    tw:friendsCount 88 ;
+    tw:sid "TheVictorVieira"^^xsd:string ;
+    tw:uid "104902881"^^xsd:string ;
+    tw:utcOffset -7200 .
+
+<http://purl.org/socialparticipation/tw/Participant#ThiagoDwar> a tw:Participant ;
+    tw:favouritesCount 180 ;
+    tw:followersCount 51 ;
+    tw:friendsCount 53 ;
+    tw:sid "ThiagoDwar"^^xsd:string ;
+    tw:uLocation "Campo Grande, MS"^^xsd:string ;
+    tw:uid "3242144188"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#TombstoneCS> a tw:Participant ;
+    tw:favouritesCount 10 ;
+    tw:followersCount 29 ;
+    tw:friendsCount 135 ;
+    tw:sid "TombstoneCS"^^xsd:string ;
+    tw:uid "851849377"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#ToysFunKids1000> a tw:Participant ;
+    tw:favouritesCount 1 ;
+    tw:followersCount 10 ;
+    tw:friendsCount 41 ;
+    tw:sid "ToysFunKids1000"^^xsd:string ;
+    tw:uid "4045052607"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#ToysKidsbrin> a tw:Participant ;
+    tw:favouritesCount 2 ;
+    tw:followersCount 7 ;
+    tw:friendsCount 36 ;
+    tw:sid "ToysKidsbrin"^^xsd:string ;
+    tw:uid "4066633671"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#Toys_Kids100> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 16 ;
+    tw:friendsCount 0 ;
+    tw:sid "Toys_Kids100"^^xsd:string ;
+    tw:uid "398797271"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#Toyskidsbrinq10> a tw:Participant ;
+    tw:favouritesCount 1 ;
+    tw:followersCount 7 ;
+    tw:friendsCount 41 ;
+    tw:sid "Toyskidsbrinq10"^^xsd:string ;
+    tw:uid "4088779497"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#ZlmBnkr> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 15 ;
+    tw:friendsCount 40 ;
+    tw:sid "ZlmBnkr"^^xsd:string ;
+    tw:uid "4284134788"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#_Spotless_> a tw:Participant ;
+    tw:favouritesCount 338 ;
+    tw:followersCount 1550 ;
+    tw:friendsCount 158 ;
+    tw:sid "_Spotless_"^^xsd:string ;
+    tw:uid "84531366"^^xsd:string ;
+    tw:utcOffset -21600 .
+
+<http://purl.org/socialparticipation/tw/Participant#_gouthier> a tw:Participant ;
+    tw:favouritesCount 2 ;
+    tw:followersCount 283 ;
+    tw:friendsCount 1304 ;
+    tw:sid "_gouthier"^^xsd:string ;
+    tw:uid "846639654"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#adit_angga19> a tw:Participant ;
+    tw:favouritesCount 1 ;
+    tw:followersCount 95 ;
+    tw:friendsCount 99 ;
+    tw:sid "adit_angga19"^^xsd:string ;
+    tw:uLocation "yogyakarta"^^xsd:string ;
+    tw:uid "139998083"^^xsd:string ;
+    tw:utcOffset 25200 .
+
+<http://purl.org/socialparticipation/tw/Participant#agiefan> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 136 ;
+    tw:friendsCount 0 ;
+    tw:sid "agiefan"^^xsd:string ;
+    tw:uid "2666902951"^^xsd:string ;
+    tw:utcOffset 10800 .
+
+<http://purl.org/socialparticipation/tw/Participant#ahmed_rehena> a tw:Participant ;
+    tw:favouritesCount 118 ;
+    tw:followersCount 31 ;
+    tw:friendsCount 1271 ;
+    tw:sid "ahmed_rehena"^^xsd:string ;
+    tw:uid "4439241434"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#ahmedelmahalwy> a tw:Participant ;
+    tw:favouritesCount 1 ;
+    tw:followersCount 3 ;
+    tw:friendsCount 182 ;
+    tw:sid "ahmedelmahalwy"^^xsd:string ;
+    tw:uid "1688986472"^^xsd:string ;
+    tw:utcOffset 7200 .
+
+<http://purl.org/socialparticipation/tw/Participant#anadromeo> a tw:Participant ;
+    tw:favouritesCount 43 ;
+    tw:followersCount 480 ;
+    tw:friendsCount 1500 ;
+    tw:sid "anadromeo"^^xsd:string ;
+    tw:uLocation "Anadrome"^^xsd:string ;
+    tw:uid "2775848995"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#arsenalclubchat> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 2846 ;
+    tw:friendsCount 3451 ;
+    tw:sid "arsenalclubchat"^^xsd:string ;
+    tw:uid "2727501710"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#artofpinups> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 21676 ;
+    tw:friendsCount 195 ;
+    tw:sid "artofpinups"^^xsd:string ;
+    tw:uid "3989406797"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#aukoeuco> a tw:Participant ;
+    tw:favouritesCount 165 ;
+    tw:followersCount 480 ;
+    tw:friendsCount 1002 ;
+    tw:sid "aukoeuco"^^xsd:string ;
+    tw:uLocation "東京に近い地域"^^xsd:string ;
+    tw:uid "137546684"^^xsd:string ;
+    tw:utcOffset 46800 .
+
+<http://purl.org/socialparticipation/tw/Participant#bambamsi26> a tw:Participant ;
+    tw:favouritesCount 338 ;
+    tw:followersCount 126 ;
+    tw:friendsCount 389 ;
+    tw:sid "bambamsi26"^^xsd:string ;
+    tw:uLocation "Galicia"^^xsd:string ;
+    tw:uid "3028667289"^^xsd:string ;
+    tw:utcOffset 3600 .
+
+<http://purl.org/socialparticipation/tw/Participant#blju_307> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 9 ;
+    tw:friendsCount 42 ;
+    tw:sid "blju_307"^^xsd:string ;
+    tw:uid "3293633108"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#boo_boo_judy> a tw:Participant ;
+    tw:favouritesCount 166 ;
+    tw:followersCount 15 ;
+    tw:friendsCount 117 ;
+    tw:sid "boo_boo_judy"^^xsd:string ;
+    tw:uLocation "West Virginia, USA"^^xsd:string ;
+    tw:uid "2878999639"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#camile_poynter> a tw:Participant ;
+    tw:favouritesCount 115 ;
+    tw:followersCount 502 ;
+    tw:friendsCount 1040 ;
+    tw:sid "camile_poynter"^^xsd:string ;
+    tw:uLocation "Rio de Janeiro - RJ"^^xsd:string ;
+    tw:uid "31533687"^^xsd:string ;
+    tw:utcOffset -7200 .
+
+<http://purl.org/socialparticipation/tw/Participant#careerrobot> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 600 ;
+    tw:friendsCount 600 ;
+    tw:sid "careerrobot"^^xsd:string ;
+    tw:uLocation "weil am rhein"^^xsd:string ;
+    tw:uid "2909239049"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#cazunox> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 2 ;
+    tw:friendsCount 6 ;
+    tw:sid "cazunox"^^xsd:string ;
+    tw:uLocation "Manassas, VA"^^xsd:string ;
+    tw:uid "199363092"^^xsd:string ;
+    tw:utcOffset -18000 .
+
+<http://purl.org/socialparticipation/tw/Participant#chelseaclubchat> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 660 ;
+    tw:friendsCount 1733 ;
+    tw:sid "chelseaclubchat"^^xsd:string ;
+    tw:uid "2727526190"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#coman_games> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 2 ;
+    tw:friendsCount 0 ;
+    tw:sid "coman_games"^^xsd:string ;
+    tw:uid "4433074453"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#dadud3r> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 22 ;
+    tw:friendsCount 408 ;
+    tw:sid "dadud3r"^^xsd:string ;
+    tw:uid "1401049458"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#davidjeann1> a tw:Participant ;
+    tw:favouritesCount 525 ;
+    tw:followersCount 35 ;
+    tw:friendsCount 323 ;
+    tw:sid "davidjeann1"^^xsd:string ;
+    tw:uid "4301965875"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#dendyzonaru> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 2 ;
+    tw:friendsCount 2 ;
+    tw:sid "dendyzonaru"^^xsd:string ;
+    tw:uid "3988394543"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#dgeeknews_FR> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 1297 ;
+    tw:friendsCount 546 ;
+    tw:sid "dgeeknews_FR"^^xsd:string ;
+    tw:uLocation "France"^^xsd:string ;
+    tw:uid "3401334389"^^xsd:string ;
+    tw:utcOffset 3600 .
+
+<http://purl.org/socialparticipation/tw/Participant#disley_paul> a tw:Participant ;
+    tw:favouritesCount 4713 ;
+    tw:followersCount 349 ;
+    tw:friendsCount 1964 ;
+    tw:sid "disley_paul"^^xsd:string ;
+    tw:uLocation "Manchester, England"^^xsd:string ;
+    tw:uid "3699821895"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#dorkysdeals> a tw:Participant ;
+    tw:favouritesCount 6018 ;
+    tw:followersCount 7298 ;
+    tw:friendsCount 365 ;
+    tw:sid "dorkysdeals"^^xsd:string ;
+    tw:uid "1942382558"^^xsd:string ;
+    tw:utcOffset -18000 .
+
+<http://purl.org/socialparticipation/tw/Participant#duckwellsvintag> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 516 ;
+    tw:friendsCount 157 ;
+    tw:sid "duckwellsvintag"^^xsd:string ;
+    tw:uid "3028865068"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#eSmartGameCafe> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 129 ;
+    tw:friendsCount 167 ;
+    tw:sid "eSmartGameCafe"^^xsd:string ;
+    tw:uLocation "Tokyo, Japan"^^xsd:string ;
+    tw:uid "346209388"^^xsd:string ;
+    tw:utcOffset 32400 .
+
+<http://purl.org/socialparticipation/tw/Participant#emilygklein92> a tw:Participant ;
+    tw:favouritesCount 1 ;
+    tw:followersCount 26 ;
+    tw:friendsCount 5 ;
+    tw:sid "emilygklein92"^^xsd:string ;
+    tw:uid "4265481800"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#game_long_play> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 2378 ;
+    tw:friendsCount 2942 ;
+    tw:sid "game_long_play"^^xsd:string ;
+    tw:uid "2465635706"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#gamehijin1> a tw:Participant ;
+    tw:favouritesCount 77 ;
+    tw:followersCount 478 ;
+    tw:friendsCount 1705 ;
+    tw:sid "gamehijin1"^^xsd:string ;
+    tw:uid "3159205334"^^xsd:string ;
+    tw:utcOffset 32400 .
+
+<http://purl.org/socialparticipation/tw/Participant#gamestoper4> a tw:Participant ;
+    tw:favouritesCount 395 ;
+    tw:followersCount 19 ;
+    tw:friendsCount 82 ;
+    tw:sid "gamestoper4"^^xsd:string ;
+    tw:uLocation "Deep Space"^^xsd:string ;
+    tw:uid "2606000406"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#geekmommedia> a tw:Participant ;
+    tw:favouritesCount 314 ;
+    tw:followersCount 723 ;
+    tw:friendsCount 744 ;
+    tw:name "Julie Jimenez"^^xsd:string ;
+    tw:sid "geekmommedia"^^xsd:string ;
+    tw:uLocation "Denver, CO"^^xsd:string ;
+    tw:uid "3287952872"^^xsd:string ;
+    tw:utcOffset -25200 .
+
+<http://purl.org/socialparticipation/tw/Participant#graydonald57> a tw:Participant ;
+    tw:favouritesCount 7 ;
+    tw:followersCount 427 ;
+    tw:friendsCount 67 ;
+    tw:sid "graydonald57"^^xsd:string ;
+    tw:uLocation "England, United Kingdom"^^xsd:string ;
+    tw:uid "4234840348"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#gregonews> a tw:Participant ;
+    tw:favouritesCount 4192 ;
+    tw:followersCount 33181 ;
+    tw:friendsCount 33892 ;
+    tw:sid "gregonews"^^xsd:string ;
+    tw:uLocation "Nice, France"^^xsd:string ;
+    tw:uid "1911363446"^^xsd:string ;
+    tw:utcOffset 3600 .
+
+<http://purl.org/socialparticipation/tw/Participant#iTouchRev> a tw:Participant ;
+    tw:favouritesCount 65 ;
+    tw:followersCount 4954 ;
+    tw:friendsCount 5111 ;
+    tw:sid "iTouchRev"^^xsd:string ;
+    tw:uLocation "New York"^^xsd:string ;
+    tw:uid "627434948"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#jaak77> a tw:Participant ;
+    tw:favouritesCount 12 ;
+    tw:followersCount 660 ;
+    tw:friendsCount 717 ;
+    tw:sid "jaak77"^^xsd:string ;
+    tw:uid "2293105997"^^xsd:string ;
+    tw:utcOffset 10800 .
+
+<http://purl.org/socialparticipation/tw/Participant#jakoporeturned> a tw:Participant ;
+    tw:favouritesCount 1691 ;
+    tw:followersCount 2144 ;
+    tw:friendsCount 1978 ;
+    tw:sid "jakoporeturned"^^xsd:string ;
+    tw:uLocation "United Kingdom"^^xsd:string ;
+    tw:uid "3560407695"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#juguetes1000> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 17 ;
+    tw:friendsCount 21 ;
+    tw:sid "juguetes1000"^^xsd:string ;
+    tw:uid "2877853821"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#kNamT> a tw:Participant ;
+    tw:favouritesCount 7288 ;
+    tw:followersCount 3076 ;
+    tw:friendsCount 1565 ;
+    tw:sid "kNamT"^^xsd:string ;
+    tw:uLocation "ChugokuStation gumboots@f5.si"^^xsd:string ;
+    tw:uid "241234928"^^xsd:string ;
+    tw:utcOffset 32400 .
+
+<http://purl.org/socialparticipation/tw/Participant#katladyu18> a tw:Participant ;
+    tw:favouritesCount 1073 ;
+    tw:followersCount 157 ;
+    tw:friendsCount 729 ;
+    tw:sid "katladyu18"^^xsd:string ;
+    tw:uid "128410360"^^xsd:string ;
+    tw:utcOffset -21600 .
+
+<http://purl.org/socialparticipation/tw/Participant#krmnf6> a tw:Participant ;
+    tw:favouritesCount 241 ;
+    tw:followersCount 287 ;
+    tw:friendsCount 233 ;
+    tw:sid "krmnf6"^^xsd:string ;
+    tw:uLocation "Los Angeles"^^xsd:string ;
+    tw:uid "104033416"^^xsd:string ;
+    tw:utcOffset -21600 .
+
+<http://purl.org/socialparticipation/tw/Participant#lovontop22> a tw:Participant ;
+    tw:favouritesCount 157 ;
+    tw:followersCount 76 ;
+    tw:friendsCount 93 ;
+    tw:sid "lovontop22"^^xsd:string ;
+    tw:uLocation "Rancho Cucamonga"^^xsd:string ;
+    tw:uid "393932980"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#mabaho_ako> a tw:Participant ;
+    tw:favouritesCount 517 ;
+    tw:followersCount 136 ;
+    tw:friendsCount 2003 ;
+    tw:sid "mabaho_ako"^^xsd:string ;
+    tw:uid "490625413"^^xsd:string ;
+    tw:utcOffset 16200 .
+
+<http://purl.org/socialparticipation/tw/Participant#maistarz> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 0 ;
+    tw:friendsCount 16 ;
+    tw:sid "maistarz"^^xsd:string ;
+    tw:uid "2664195902"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#manutdclubchat> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 2938 ;
+    tw:friendsCount 3506 ;
+    tw:sid "manutdclubchat"^^xsd:string ;
+    tw:uid "2727516799"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#maxxpowerss8> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 720 ;
+    tw:friendsCount 64 ;
+    tw:sid "maxxpowerss8"^^xsd:string ;
+    tw:uid "2996215967"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#mhs_bot> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 54 ;
+    tw:friendsCount 12 ;
+    tw:sid "mhs_bot"^^xsd:string ;
+    tw:uid "224061445"^^xsd:string ;
+    tw:utcOffset 32400 .
+
+<http://purl.org/socialparticipation/tw/Participant#mtantowi> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 50 ;
+    tw:friendsCount 228 ;
+    tw:sid "mtantowi"^^xsd:string ;
+    tw:uLocation "Sidoarjo, Indonesia"^^xsd:string ;
+    tw:uid "67930580"^^xsd:string ;
+    tw:utcOffset 25200 .
+
+<http://purl.org/socialparticipation/tw/Participant#mundo_feliz100> a tw:Participant ;
+    tw:favouritesCount 4 ;
+    tw:followersCount 18 ;
+    tw:friendsCount 39 ;
+    tw:sid "mundo_feliz100"^^xsd:string ;
+    tw:uLocation "Rio de Janeiro, Brasil"^^xsd:string ;
+    tw:uid "3370981888"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#nahsydtasgdhja2> a tw:Participant ;
+    tw:favouritesCount 12 ;
+    tw:followersCount 10 ;
+    tw:friendsCount 394 ;
+    tw:sid "nahsydtasgdhja2"^^xsd:string ;
+    tw:uid "4352710049"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#nflfootball_age> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 1084 ;
+    tw:friendsCount 1902 ;
+    tw:sid "nflfootball_age"^^xsd:string ;
+    tw:uid "2359266649"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#nomcay> a tw:Participant ;
+    tw:favouritesCount 23 ;
+    tw:followersCount 39 ;
+    tw:friendsCount 352 ;
+    tw:sid "nomcay"^^xsd:string ;
+    tw:uLocation "Temanggung, central Java Indon"^^xsd:string ;
+    tw:uid "24308062"^^xsd:string ;
+    tw:utcOffset 25200 .
+
+<http://purl.org/socialparticipation/tw/Participant#nullpodesu> a tw:Participant ;
+    tw:favouritesCount 197 ;
+    tw:followersCount 122 ;
+    tw:friendsCount 103 ;
+    tw:name "ゆういち"^^xsd:string ;
+    tw:sid "nullpodesu"^^xsd:string ;
+    tw:uLocation "埼玉県 川口市"^^xsd:string ;
+    tw:uid "2838471150"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#omake4253> a tw:Participant ;
+    tw:favouritesCount 122 ;
+    tw:followersCount 95 ;
+    tw:friendsCount 104 ;
+    tw:sid "omake4253"^^xsd:string ;
+    tw:uLocation "ゲームの中"^^xsd:string ;
+    tw:uid "2815274156"^^xsd:string ;
+    tw:utcOffset 32400 .
+
+<http://purl.org/socialparticipation/tw/Participant#pavnasabaysuk> a tw:Participant ;
+    tw:favouritesCount 2 ;
+    tw:followersCount 7 ;
+    tw:friendsCount 105 ;
+    tw:sid "pavnasabaysuk"^^xsd:string ;
+    tw:uid "3064083174"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#pholgrid> a tw:Participant ;
+    tw:favouritesCount 11 ;
+    tw:followersCount 5 ;
+    tw:friendsCount 8 ;
+    tw:sid "pholgrid"^^xsd:string ;
+    tw:uLocation "bangkok"^^xsd:string ;
+    tw:uid "2346922694"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#pito_kurei> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 78 ;
+    tw:friendsCount 60 ;
+    tw:sid "pito_kurei"^^xsd:string ;
+    tw:uLocation "Bandar Lampung"^^xsd:string ;
+    tw:uid "131705535"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#pta_kan> a tw:Participant ;
+    tw:favouritesCount 538 ;
+    tw:followersCount 26 ;
+    tw:friendsCount 48 ;
+    tw:sid "pta_kan"^^xsd:string ;
+    tw:uid "610841863"^^xsd:string ;
+    tw:utcOffset 32400 .
+
+<http://purl.org/socialparticipation/tw/Participant#redalf13> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 2 ;
+    tw:friendsCount 9 ;
+    tw:sid "redalf13"^^xsd:string ;
+    tw:uLocation "Russia"^^xsd:string ;
+    tw:uid "216300912"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#ricardo_gama> a tw:Participant ;
+    tw:favouritesCount 5 ;
+    tw:followersCount 7109 ;
+    tw:friendsCount 1883 ;
+    tw:sid "ricardo_gama"^^xsd:string ;
+    tw:uLocation "Rio de Janeiro"^^xsd:string ;
+    tw:uid "19813057"^^xsd:string ;
+    tw:utcOffset -7200 .
+
+<http://purl.org/socialparticipation/tw/Participant#ryuubankokyo> a tw:Participant ;
+    tw:favouritesCount 1997 ;
+    tw:followersCount 135 ;
+    tw:friendsCount 177 ;
+    tw:sid "ryuubankokyo"^^xsd:string ;
+    tw:uid "257916461"^^xsd:string ;
+    tw:utcOffset 46800 .
+
+<http://purl.org/socialparticipation/tw/Participant#saintkalvin51> a tw:Participant ;
+    tw:favouritesCount 6 ;
+    tw:followersCount 29 ;
+    tw:friendsCount 64 ;
+    tw:sid "saintkalvin51"^^xsd:string ;
+    tw:uid "4096041253"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#shiratori1221> a tw:Participant ;
+    tw:favouritesCount 1326 ;
+    tw:followersCount 121 ;
+    tw:friendsCount 120 ;
+    tw:sid "shiratori1221"^^xsd:string ;
+    tw:uid "2336458675"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#shirleyleng> a tw:Participant ;
+    tw:favouritesCount 5 ;
+    tw:followersCount 104 ;
+    tw:friendsCount 114 ;
+    tw:sid "shirleyleng"^^xsd:string ;
+    tw:uLocation "Toronto, Ontario, Canada"^^xsd:string ;
+    tw:uid "68724453"^^xsd:string ;
+    tw:utcOffset -18000 .
+
+<http://purl.org/socialparticipation/tw/Participant#shopl> a tw:Participant ;
+    tw:favouritesCount 30315 ;
+    tw:followersCount 7660 ;
+    tw:friendsCount 8104 ;
+    tw:sid "shopl"^^xsd:string ;
+    tw:uLocation "Poland"^^xsd:string ;
+    tw:uid "16663471"^^xsd:string ;
+    tw:utcOffset 3600 .
+
+<http://purl.org/socialparticipation/tw/Participant#shopmatrixuk> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 470 ;
+    tw:friendsCount 0 ;
+    tw:sid "shopmatrixuk"^^xsd:string ;
+    tw:uLocation "United Kingdom"^^xsd:string ;
+    tw:uid "356034482"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#startupzinfo> a tw:Participant ;
+    tw:favouritesCount 7 ;
+    tw:followersCount 17 ;
+    tw:friendsCount 72 ;
+    tw:sid "startupzinfo"^^xsd:string ;
+    tw:uid "3879026367"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#superflashapps> a tw:Participant ;
+    tw:favouritesCount 11 ;
+    tw:followersCount 122 ;
+    tw:friendsCount 148 ;
+    tw:sid "superflashapps"^^xsd:string ;
+    tw:uLocation "North Carolina"^^xsd:string ;
+    tw:uid "2802966477"^^xsd:string ;
+    tw:utcOffset -18000 .
+
+<http://purl.org/socialparticipation/tw/Participant#thaug28> a tw:Participant ;
+    tw:favouritesCount 165 ;
+    tw:followersCount 51 ;
+    tw:friendsCount 52 ;
+    tw:sid "thaug28"^^xsd:string ;
+    tw:uid "1921788380"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#tomoe_mami_jc> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 351 ;
+    tw:friendsCount 449 ;
+    tw:sid "tomoe_mami_jc"^^xsd:string ;
+    tw:uid "1150231034"^^xsd:string ;
+    tw:utcOffset 28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#topturnbets> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 3034 ;
+    tw:friendsCount 3794 ;
+    tw:sid "topturnbets"^^xsd:string ;
+    tw:uLocation "United Kingdom"^^xsd:string ;
+    tw:uid "3000473739"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#topturngaming> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 3335 ;
+    tw:friendsCount 4012 ;
+    tw:sid "topturngaming"^^xsd:string ;
+    tw:uid "2353486538"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#toysfunbrin> a tw:Participant ;
+    tw:favouritesCount 1 ;
+    tw:followersCount 7 ;
+    tw:friendsCount 35 ;
+    tw:sid "toysfunbrin"^^xsd:string ;
+    tw:uid "4074170343"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#toysrg28> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 11 ;
+    tw:friendsCount 40 ;
+    tw:name "Toys Kids BR"^^xsd:string ;
+    tw:sid "toysrg28"^^xsd:string ;
+    tw:uid "4170472277"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#tsatt_team> a tw:Participant ;
+    tw:favouritesCount 1567 ;
+    tw:followersCount 408 ;
+    tw:friendsCount 380 ;
+    tw:name "TheShortAndTheTall"^^xsd:string ;
+    tw:sid "tsatt_team"^^xsd:string ;
+    tw:uLocation "Tv - Italy"^^xsd:string ;
+    tw:uid "1020928436"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#waleed_career> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 9 ;
+    tw:friendsCount 34 ;
+    tw:sid "waleed_career"^^xsd:string ;
+    tw:uid "247249603"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#web_syokunin> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 942 ;
+    tw:friendsCount 1085 ;
+    tw:sid "web_syokunin"^^xsd:string ;
+    tw:uLocation "東京都"^^xsd:string ;
+    tw:uid "166452941"^^xsd:string ;
+    tw:utcOffset 28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#wyvearn> a tw:Participant ;
+    tw:favouritesCount 173 ;
+    tw:followersCount 56 ;
+    tw:friendsCount 57 ;
+    tw:sid "wyvearn"^^xsd:string ;
+    tw:uid "514255661"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#yav20052> a tw:Participant ;
+    tw:favouritesCount 5443 ;
+    tw:followersCount 1967 ;
+    tw:friendsCount 1408 ;
+    tw:sid "yav20052"^^xsd:string ;
+    tw:uLocation "California, USA"^^xsd:string ;
+    tw:uid "3240458618"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#yukuritomo> a tw:Participant ;
+    tw:favouritesCount 194 ;
+    tw:followersCount 782 ;
+    tw:friendsCount 964 ;
+    tw:sid "yukuritomo"^^xsd:string ;
+    tw:uid "2423612966"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Message#665578072456974336> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#672569305960079360> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Participant#Digital3dworld1> a tw:Participant ;
+    tw:favouritesCount 25 ;
+    tw:followersCount 25291 ;
+    tw:friendsCount 624 ;
+    tw:sid "Digital3dworld1"^^xsd:string ;
+    tw:uid "2325571831"^^xsd:string ;
+    tw:utcOffset -18000 .
+
+<http://purl.org/socialparticipation/tw/Participant#HappyMeGames> a tw:Participant ;
+    tw:favouritesCount 4 ;
+    tw:followersCount 391 ;
+    tw:friendsCount 388 ;
+    tw:sid "HappyMeGames"^^xsd:string ;
+    tw:uid "4181073615"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#NorbertoEasley> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 80 ;
+    tw:friendsCount 40 ;
+    tw:sid "NorbertoEasley"^^xsd:string ;
+    tw:uid "4331015235"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#Suly_Le> a tw:Participant ;
+    tw:favouritesCount 24 ;
+    tw:followersCount 4 ;
+    tw:friendsCount 6 ;
+    tw:sid "Suly_Le"^^xsd:string ;
+    tw:uLocation "Vietnam"^^xsd:string ;
+    tw:uid "540562220"^^xsd:string ;
+    tw:utcOffset 25200 .
+
+<http://purl.org/socialparticipation/tw/Participant#ToysKids200> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 6 ;
+    tw:friendsCount 40 ;
+    tw:sid "ToysKids200"^^xsd:string ;
+    tw:uid "4104847576"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#VeteransRevenge> a tw:Participant ;
+    tw:favouritesCount 25 ;
+    tw:followersCount 55577 ;
+    tw:friendsCount 602 ;
+    tw:sid "VeteransRevenge"^^xsd:string ;
+    tw:uid "3798105376"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#gamenews_com> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 123 ;
+    tw:friendsCount 64 ;
+    tw:sid "gamenews_com"^^xsd:string ;
+    tw:uid "3101016595"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#gamingjobonlin> a tw:Participant ;
+    tw:favouritesCount 3 ;
+    tw:followersCount 129 ;
+    tw:friendsCount 143 ;
+    tw:sid "gamingjobonlin"^^xsd:string ;
+    tw:uid "3075809581"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#he1144111> a tw:Participant ;
+    tw:favouritesCount 6 ;
+    tw:followersCount 228 ;
+    tw:friendsCount 183 ;
+    tw:sid "he1144111"^^xsd:string ;
+    tw:uid "4242827122"^^xsd:string ;
+    tw:utcOffset 3600 .
+
+<http://purl.org/socialparticipation/tw/Participant#hobbyrank> a tw:Participant ;
+    tw:favouritesCount 1 ;
+    tw:followersCount 911 ;
+    tw:friendsCount 1134 ;
+    tw:sid "hobbyrank"^^xsd:string ;
+    tw:uid "400219179"^^xsd:string ;
+    tw:utcOffset -36000 .
+
+<http://purl.org/socialparticipation/tw/Participant#netsrik2012> a tw:Participant ;
+    tw:favouritesCount 6 ;
+    tw:followersCount 12436 ;
+    tw:friendsCount 2018 ;
+    tw:sid "netsrik2012"^^xsd:string ;
+    tw:uLocation "Canada"^^xsd:string ;
+    tw:uid "540255383"^^xsd:string ;
+    tw:utcOffset -18000 .
+
+<http://purl.org/socialparticipation/tw/Participant#victusvincimus> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 7417 ;
+    tw:friendsCount 688 ;
+    tw:sid "victusvincimus"^^xsd:string ;
+    tw:uid "2250905010"^^xsd:string ;
+    tw:utcOffset -18000 .
+
+<http://purl.org/socialparticipation/tw/Participant#BestVideosToday> a tw:Participant ;
+    tw:favouritesCount 1 ;
+    tw:followersCount 225 ;
+    tw:friendsCount 4 ;
+    tw:sid "BestVideosToday"^^xsd:string ;
+    tw:uid "2914412829"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#gameso9jp> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 8 ;
+    tw:friendsCount 6 ;
+    tw:sid "gameso9jp"^^xsd:string ;
+    tw:uid "2307554593"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Message#672489281932365824> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#672582126324293632> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Message#672586914017517569> a tw:Message .
+
+<http://purl.org/socialparticipation/tw/Participant#Gamers_Account> a tw:Participant ;
+    tw:favouritesCount 7 ;
+    tw:followersCount 695 ;
+    tw:friendsCount 1 ;
+    tw:sid "Gamers_Account"^^xsd:string ;
+    tw:uid "4093378288"^^xsd:string .
+
+<http://purl.org/socialparticipation/tw/Participant#onlinstore> a tw:Participant ;
+    tw:favouritesCount 39 ;
+    tw:followersCount 750 ;
+    tw:friendsCount 2056 ;
+    tw:sid "onlinstore"^^xsd:string ;
+    tw:uid "2789751190"^^xsd:string ;
+    tw:utcOffset -28800 .
+
+<http://purl.org/socialparticipation/tw/Participant#amaz_game> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 1291 ;
+    tw:friendsCount 1305 ;
+    tw:sid "amaz_game"^^xsd:string ;
+    tw:uid "184175841"^^xsd:string ;
+    tw:utcOffset 32400 .
+
+<http://purl.org/socialparticipation/tw/Participant#gamematomesm> a tw:Participant ;
+    tw:favouritesCount 0 ;
+    tw:followersCount 9 ;
+    tw:friendsCount 0 ;
+    tw:sid "gamematomesm"^^xsd:string ;
+    tw:uid "3289499006"^^xsd:string .
+

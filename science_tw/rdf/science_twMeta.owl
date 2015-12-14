@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:tw="http://purl.org/socialparticipation/tw/"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#science_tw">
+    <tw:nReTweets rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3312</tw:nReTweets>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot science_tw</rdfs:label>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/science_twMeta.ttl</po:discoveryTTLFile>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-03</po:createdAt>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">labMacambira.sf.net</po:donatedBy>
+    <tw:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14800</tw:nParticipants>
+    <tw:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14800</tw:nMessages>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/science_twTranslate00001.ttl</po:ttlFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/science_twTranslate00002.ttl</po:ttlFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/science_twTranslate00001.owl</po:rdfFile>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/science_twMeta.owl</po:discorveryRDFFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T05:17:42.617725</po:triplifiedIn>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/science_twTranslate00000.ttl</po:ttlFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Twitter messages related to tweets with the #science_tw hashtag</rdfs:comment>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/twitter2/tree/master/science_tw</po:availableAt>
+    <tw:nReplies rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">314</tw:nReplies>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/science_twTranslate00000.owl</po:rdfFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twitter search engine</po:acquiredThrough>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/science_twTranslate00002.owl</po:rdfFile>
+  </rdf:Description>
+</rdf:RDF>

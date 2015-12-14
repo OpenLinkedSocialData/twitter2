@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:tw="http://purl.org/socialparticipation/tw/"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#game_tw">
+    <tw:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10200</tw:nParticipants>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Twitter messages related to tweets with the #game_tw hashtag</rdfs:comment>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twTranslate00001.ttl</po:ttlFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T05:02:47.009647</po:triplifiedIn>
+    <tw:nReTweets rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1370</tw:nReTweets>
+    <tw:nReplies rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">177</tw:nReplies>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twTranslate00000.ttl</po:ttlFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twTranslate00002.ttl</po:ttlFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twTranslate00001.owl</po:rdfFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twTranslate00002.owl</po:rdfFile>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/twitter2/tree/master/game_tw</po:availableAt>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twitter search engine</po:acquiredThrough>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">labMacambira.sf.net</po:donatedBy>
+    <tw:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10200</tw:nMessages>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twMeta.ttl</po:discoveryTTLFile>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot game_tw</rdfs:label>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-12-03</po:createdAt>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twTranslate00000.owl</po:rdfFile>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/twitter2/master/rdf/game_twMeta.owl</po:discorveryRDFFile>
+  </rdf:Description>
+</rdf:RDF>
